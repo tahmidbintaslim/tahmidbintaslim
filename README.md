@@ -5,7 +5,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm from Bangladesh, living in Bangkok, Thailand and currently working at Scalia Ventures as a software engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm from Bangladesh, living in Bangkok, Thailand and currently working at Scalia Ventures as a software engineer. You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][3.1]][3].
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## &#x270d; Blog & Writing
@@ -53,6 +53,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
 [2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
+[3.1]: https://imgur.com/LdUCwc6 "LinkedIn icon with padding"
 
 <!-- icons without padding -->
 

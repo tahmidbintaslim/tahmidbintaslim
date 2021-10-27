@@ -53,7 +53,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 [1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
 [2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
-[3.1]: https://imgur.com/LdUCwc6 "LinkedIn icon with padding"
+[3.1]: https://imgur.com/LdUCwc6.png "LinkedIn icon with padding"
 
 <!-- icons without padding -->
 

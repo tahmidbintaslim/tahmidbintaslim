@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!----- Most Used Languages  ---->
 <a href="https://github.com/tahmidbintaslim/tahmidbintaslim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&hide=css,html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!----- Github Stats  ---->
 <a href="https://github.com/MartinHeinz/MartinHeinz">

@@ -1,11 +1,11 @@
 <!--Author: Tahmid Bin Taslim Rafi---->
 <!----Updated On: 4th April, 2021----->
 
-[![Header](https://github.com/tahmidbintaslim/tahmidbintaslim/blob/a3cee9f65c96441337fd82f7284245bfb119eeae/Rafi_Banner.png "Header")](https://tahmid.life)
+[![Header](https://github.com/tahmidbintaslim/tahmidbintaslim/blob/a3cee9f65c96441337fd82f7284245bfb119eeae/Banner.png "Header")](https://tahmid.life)
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm from Bangladesh, living in Bangkok, Thailand and currently working at Scalia Ventures as a software engineer. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3]. 
+My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm from Bangladesh, living in Bangkok, Thailand and currently working at Scalia Ventures as a software engineer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## &#x270d; Blog & Writing
@@ -13,6 +13,7 @@ My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm fr
 Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -40,31 +41,28 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=python-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-
 <a href="https://github.com/MartinHeinz/go-project-blueprint">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
 
 <!-- links to social media icons -->
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
+[2.1]: http://i.imgur.com/0o48UoR.png "github icon with padding"
 
 <!-- icons without padding -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
+[1.2]: http://i.imgur.com/wWzX9uB.png "twitter icon without padding"
+[2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png "LinkedIn icon without padding"
 
 <!-- links to your social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://github.com/MartinHeinz
 [3]: https://www.linkedin.com/in/heinz-martin/
-
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->

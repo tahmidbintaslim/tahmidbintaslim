@@ -10,7 +10,7 @@ My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm fr
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim).
 
 ## 🔧 Technologies & Tools
 
@@ -43,8 +43,8 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!----- SomeProjects to Highlight  ---->
-<a href="https://github.com/MartinHeinz/go-project-blueprint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MartinHeinz&repo=go-project-blueprint&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/tahmidbintaslim/DataMiningGroupProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- links to social media icons -->

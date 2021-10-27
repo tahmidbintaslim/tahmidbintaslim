@@ -10,7 +10,7 @@ My name is Tahmid Bin Taslim and I'm a software developer/Data Scientist. I'm fr
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/martinheinz).
 
 ## 🔧 Technologies & Tools
 

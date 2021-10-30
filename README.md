@@ -1,7 +1,7 @@
 <!--Author: Tahmid Bin Taslim Rafi---->
 <!----Updated On: 4th April, 2021----->
 
-[![Header](https://github.com/tahmidbintaslim/tahmidbintaslim/blob/main/Banner.jpg "Short intro About Tahmid")](https://tahmid.life/)
+[![Header](https://github.com/tahmidbintaslim/tahmidbintaslim/blob/main/Banner.jpg "Short intro About Tahmid")](https://tahmid.life/){:target="_blank"}
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 

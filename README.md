@@ -43,12 +43,14 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 </a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!----- Github Stats  ---->
 
 <!-- <a href="https://github.com/tahmidbintaslim/tahmidbintaslim">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tahmid's GitHub Stats" />
 </a> -->
+
 ![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&count_private=true)
 
 <!----- SomeProjects to Highlight  ---->

@@ -1,5 +1,5 @@
 <!--Author: Tahmid Bin Taslim Rafi---->
-<!----Updated On: 30th October, 2021----->
+<!----Updated On: Today lol----->
 
 [![Header](https://github.com/tahmidbintaslim/tahmidbintaslim/blob/main/Banner.jpg "Short intro About Tahmid")](https://tahmid.life/)
 
@@ -32,35 +32,24 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=lt8" width="400" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 
-<!-- ## Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=github-readme-stats)](https://github.com/tahmidbintaslim/github-readme-stats) -->
-
 ## &#x1f4c8; GitHub Stats
 
 <!----- Most Used Languages  ---->
-<!-- <a href="https://github.com/tahmidbintaslim/tahmidbintaslim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&hide=css,html,javascript&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!----- Github Stats  ---->
-
-<!-- <a href="https://github.com/tahmidbintaslim/tahmidbintaslim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Tahmid's GitHub Stats" />
-</a> -->
 
 ![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&count_private=true)
 
 <!----- SomeProjects to Highlight  ---->
-<a href="https://github.com/tahmidbintaslim/ProgrammingForDataScienceProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject)](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject)
+
 <!----- SomeProjects to Highlight  ---->
-<a href="https://github.com/tahmidbintaslim/DataMiningGroupProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject)](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject)
+
 
 <!-- links to social media icons -->
 

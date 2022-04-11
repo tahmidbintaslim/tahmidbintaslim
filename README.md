@@ -28,6 +28,10 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
+## Daily Dev Card
+
+<a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=lt8" width="400" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+
 ## &#x1f4c8; GitHub Stats
 
 <!----- Most Used Languages  ---->

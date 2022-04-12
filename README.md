@@ -77,4 +77,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!-- Emojis: https://emojipedia.org/emoji/ -->
 <!-- HTML Emojis: https://www.fileformat.info/index.htm -->
 <!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+<!-- Badges: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- Awesome GitHub Profile README References: 
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://eddiehubcommunity.github.io/awesome-github-profiles/profiles
+https://github.com/durgeshsamariya/awesome-github-profile-readme-templates
+https://github.com/coderjojo/creative-profile-readme
+https://github.com/anmol098/waka-readme-stats
+https://github.com/elangosundar/awesome-README-templates
+https://zzetao.github.io/awesome-github-profile/
+-->

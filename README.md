@@ -40,7 +40,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 <!----- Github Stats  ---->
 
-![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&count_private=true)
+![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&count_private=true)
 
 <!----- SomeProjects to Highlight  ---->
 

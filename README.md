@@ -41,6 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!----- Github Stats  ---->
 
 ![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tahmidbintaslim)](https://git.io/streak-stats)
 
 <!----- SomeProjects to Highlight  ---->
 

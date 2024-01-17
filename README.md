@@ -1,11 +1,9 @@
 <!--Author: Tahmid Bin Taslim Rafi---->
 <!----Updated On: Today lol----->
 
-
-
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Tahmid Bin Taslim and I'm a software developer and Data Scientist. I'm from Bangladesh, living in Bangkok, Thailand and currently working as a Fullstack Developer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## &#x270d; Blog & Writing
@@ -41,13 +39,13 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 <!----- Github Stats  ---->
 
 ![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tahmidbintaslim)](https://git.io/streak-stats)
 
-<!----- SomeProjects to Highlight  ---->
+
+<!----- Some Projects to Highlight  ---->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject)](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=ProgrammingForDataScienceProject)
 
-<!----- SomeProjects to Highlight  ---->
+<!----- Some Projects to Highlight  ---->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject)](https://github-readme-stats.vercel.app/api/pin/?username=tahmidbintaslim&repo=DataMiningGroupProject)
 

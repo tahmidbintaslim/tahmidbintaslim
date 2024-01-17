@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][3.1]][3]. <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 ## &#x270d; Hobbies
 

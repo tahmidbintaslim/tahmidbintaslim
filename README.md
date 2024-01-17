@@ -3,12 +3,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3]. <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
-## &#x270d; Blog & Writing
+## &#x270d; Hobbies
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim). Also I like to do problem solving and frontend challenges. [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) , [Codepen](https://codepen.io/tahmid-bin-taslim) , 
 
 ## 🔧 Technologies & Tools
 

@@ -3,7 +3,18 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rafi and I'm a Software Developer and Data Science Enthusiast. I'm from Bangladesh, living in Bangkok, Thailand for 5 years where I completed by BSC in IT (Data Science) and currently working as a Fullstack Developer. 
+Hello! I'm Tahmid Bin Taslim Rafi, a dynamic and results-driven professional specializing in Data Science and Software Engineering. With a Bachelor's degree in Information Technology, majoring in Data Science from Stamford International University, I bring a project-based approach to Web Development and a research-driven methodology to Data Science.
+
+My journey in the IT industry since 2018 has been marked by a diverse range of experiences across various domains, where I have honed my skills in both front-end and back-end technologies. I am proficient in:
+
+Web Development: Expertise in CSS & SASS Design Frameworks, PHP, JavaScript (including frameworks like React, Angular, and Vue.js), and Node.js.
+Database Management: Skilled in SQL, NoSQL, MongoDB, and PostgreSQL, ensuring robust and scalable database solutions.
+Data Science & Machine Learning: Proficient in Python Libraries, R, MATLAB, and Scala, with a strong ability to translate data insights into actionable business strategies.
+I am passionate about leveraging my technical skills to solve complex problems and create innovative solutions. My goal is to continuously evolve in the ever-changing landscape of technology and contribute meaningfully to my organization's success.
+
+I am eager to connect with like-minded professionals and organizations where I can bring my unique blend of skills to the table. Let's collaborate to drive technological advancements and achieve new heights!
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="#" height="30" width="40" /></a>

@@ -24,7 +24,7 @@ I am eager to connect with like-minded professionals and organizations where I c
 
 ## &#x270d; Hobbies
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [tahmid.life](https://tahmid.life/) as well as on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim). Also I like to do problem solving and frontend challenges. [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) , [Codepen](https://codepen.io/tahmid-bin-taslim) , 
+Apart from coding, I also maintain a blog - you can find my portfolio and resume on my website at [Portfolio Website Coming Soon] and write some tech stuffs [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim). Also I like to do problem solving and frontend challenges. [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) , [Codepen](https://codepen.io/tahmid-bin-taslim) 
 
 ## 🔧 Technologies & Tools
 

@@ -3,16 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hello! I'm Tahmid Bin Taslim Rafi, a dynamic and results-driven professional specializing in Data Science and Software Engineering. With a Bachelor's degree in Information Technology, majoring in Data Science from Stamford International University, I bring a project-based approach to Web Development and a research-driven methodology to Data Science.
-
-My journey in the IT industry since 2018 has been marked by a diverse range of experiences across various domains, where I have honed my skills in both front-end and back-end technologies. I am proficient in:
-
-Web Development: Expertise in CSS & SASS Design Frameworks, PHP, JavaScript (including frameworks like React, Angular, and Vue.js), and Node.js.
-Database Management: Skilled in SQL, NoSQL, MongoDB, and PostgreSQL, ensuring robust and scalable database solutions.
-Data Science & Machine Learning: Proficient in Python Libraries, R, MATLAB, and Scala, with a strong ability to translate data insights into actionable business strategies.
-I am passionate about leveraging my technical skills to solve complex problems and create innovative solutions. My goal is to continuously evolve in the ever-changing landscape of technology and contribute meaningfully to my organization's success.
-
-I am eager to connect with like-minded professionals and organizations where I can bring my unique blend of skills to the table. Let's collaborate to drive technological advancements and achieve new heights!
+I'm Tahmid Bin Taslim Rafi, a Data Science and Software Engineering enthusiast with a Bachelor's degree in Information Technology from Stamford International University. With over four years of experience navigating the complexities of web development and data science, I've developed a deep understanding of technologies ranging from CSS & SASS, PHP, JavaScript frameworks like React, Angular, and Vue.js, to Node.js for backend solutions. My expertise extends to database management with SQL, NoSQL, MongoDB, and PostgreSQL, alongside a strong foundation in Python, R, MATLAB, and Scala for data analysis and machine learning. I'm passionate about leveraging this diverse skill set to solve challenging problems, drive innovation, and contribute to the success of my team and projects. I'm keen to connect with professionals and organizations looking to make a significant impact through technology.
 
 
 <h3 align="left">Connect with me:</h3>

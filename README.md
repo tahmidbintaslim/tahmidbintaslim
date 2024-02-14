@@ -83,8 +83,8 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tahmidbintaslim&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-## ✍️ Random Dev Quote & ## 😂 Random Dev Meme
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## ✍️ Random Dev Quote & 😂 Random Dev Meme
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: auto;"/>
 
 <!-- icons with padding -->
 

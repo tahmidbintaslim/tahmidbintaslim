@@ -79,17 +79,12 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 
 ## &#9819; Daily Dev Card
 <a align="right" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
-![](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmidbintaslim&theme=dark&hide_border=false) ![](https://github-profile-trophy.vercel.app/?username=tahmidbintaslim&theme=darkhub&no-frame=false&no-bg=true&margin-w=4) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tahmidbintaslim&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+## ✍️ Random Dev Quote & ## 😂 Random Dev Meme
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <!-- icons with padding -->
 

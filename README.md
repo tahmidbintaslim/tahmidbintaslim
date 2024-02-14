@@ -81,6 +81,7 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 <p align="left">
 <a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 </p>
+
 ![](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tahmidbintaslim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)

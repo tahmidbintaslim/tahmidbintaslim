@@ -9,7 +9,7 @@ I'm Tahmid Bin Taslim Rafi, a Data Science and Software Engineering enthusiast w
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/tahmid-bin-taslim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a> <a href="https://www.facebook.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a> <a href="https://www.instagram.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a> <a href="https://twitter.com/rafi_it100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_it100" height="30" width="40" /></a> <a href="https://discordapp.com/users/tahmidbintaslimrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
+<img style="padding-left:5px" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 
 ## &#x270d; Hobbies
@@ -78,13 +78,13 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
 ## &#9819; Daily Dev Card
-<a align="right" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="auto" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tahmidbintaslim&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ## ✍️ Random Dev Quote & 😂 Random Dev Meme
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: 200px;"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: 320;"/>
 
 <!-- icons with padding -->
 

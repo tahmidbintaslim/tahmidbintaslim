@@ -78,12 +78,10 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
 ## &#9819; Daily Dev Card
-<a align="left" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200px" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
-
-## 🔝 Top Contributed Repo
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidbintaslim&show_icons=true&locale=en&layout=compact" alt="tahmidbintaslim" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&locale=en" alt="tahmidbintaslim" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidbintaslim&" alt="tahmidbintaslim" /></p>
+<a href="https://app.daily.dev/tahmidbintaslim"><img align="left" src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200px" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tahmidbintaslim&show_icons=true&locale=en&layout=compact" alt="tahmidbintaslim" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&locale=en" alt="tahmidbintaslim" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahmidbintaslim&" alt="tahmidbintaslim" />
 
 ## 😂 Random Dev Meme + ✍️ Random Dev Quote
 <img align="left" src='https://randommeme-five.vercel.app/' style="width:200px"/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 

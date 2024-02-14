@@ -77,7 +77,7 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
 ![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
-
+## &#9819; Daily Dev Card
 <p align="right">
 <a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="200" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 </p>

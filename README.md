@@ -78,13 +78,13 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
 ## &#9819; Daily Dev Card
-<a align="right" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="auto" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+<a align="left" href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/57fa52ab9a0c4d35a9814b8250be90d5.png?r=ry9" width="320px" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tahmidbintaslim&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ## ✍️ Random Dev Quote & 😂 Random Dev Meme
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) <img align="right" src='https://randommeme-five.vercel.app/' style="height: 320;"/>
+<img align="left" src='https://randommeme-five.vercel.app/' style="height:320px"/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 <!-- icons with padding -->
 

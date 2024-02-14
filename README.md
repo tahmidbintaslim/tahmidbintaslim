@@ -16,18 +16,18 @@ I'm Tahmid Bin Taslim Rafi, a Data Science and Software Engineering enthusiast w
 
 ## &#x270d; Hobbies
 <p align="left">
-Apart from coding, I also maintain a blog - you can find my portfolio and resume on my website at [Portfolio Website Coming Soon] and write some tech stuffs [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslim). Also I like to do problem solving and frontend challenges. [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) , [Codepen](https://codepen.io/tahmid-bin-taslim) 
+Apart from coding, I also maintain a blog - you can find my portfolio and resume on my website at ![Portfolio Website Coming Soon] and write some tech stuffs ![Medium](https://tahmidbintaslimrafi.medium.com/) and ![DEV.to](https://dev.to/tahmidbintaslim). Also I like to do problem solving and frontend challenges. ![LeetCode](https://leetcode.com/tahmidbintaslimrafi/) , [Codepen](https://codepen.io/tahmid-bin-taslim) 
 </p>
 
 
 ## 🔧 Technologies & Tools
 
-Web3:
+<p>Web3:</p>
 ![](https://img.shields.io/badge/Web3-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Web3-Web3js-informational?style=flat&logo=web3dotjs&logoColor=white&color=F16822)
 ![](https://img.shields.io/badge/Web3-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 
-Data Science:
+<p>Data Science:</p>
 ![](https://img.shields.io/badge/DS-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
 ![](https://img.shields.io/badge/DS-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/DS-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
@@ -35,42 +35,41 @@ Data Science:
 ![](https://img.shields.io/badge/DS-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/DS-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
 
-Operating Systems:
+<p>Operating Systems:</p>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D4)
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=000000)
 
-Code Editor:
+<p>Code Editor:</p>
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=000000)
 
-Languages:
+<p>Languages:</p>
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 
-Frameworks:
+<p>Frameworks:</p>
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 
-Databases:
+<p>Databases:</p>
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 
-ORM:
+<p>ORM:</p>
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=D71F00)
 
-Testing:
+<p>Testing:</p>
 ![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A)
 
-
-Others:
+<p>Others:</p>
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4EAA25)
 ![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)

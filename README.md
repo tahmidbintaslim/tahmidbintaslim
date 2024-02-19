@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Tahmid Bin Taslim Rafi, a Data Science and Software Engineering enthusiast with a Bachelor's degree in Information Technology from Stamford International University. With over four years of experience navigating the complexities of web development and data science, I've developed a deep understanding of technologies ranging from CSS & SASS, PHP, JavaScript frameworks like React, Angular, and Vue.js, to Node.js for backend solutions. My expertise extends to database management with SQL, NoSQL, MongoDB, and PostgreSQL, alongside a strong foundation in Python, R, MATLAB, and Scala for data analysis and machine learning. I'm passionate about leveraging this diverse skill set to solve challenging problems, drive innovation, and contribute to the success of my team and projects. I'm keen to connect with professionals and organizations looking to make a significant impact through technology.
+I'm Tahmid Bin Taslim Rafi, a Data Science and Software Engineering enthusiast with a Bachelor's degree in Information Technology from Stamford International University. With over four years of experience navigating the complexities of web development and data science, I've developed a deep understanding of technologies ranging from CSS & SASS, PHP, JavaScript frameworks like React, Vue.js, and Python, Node.js, PHP for backend solutions. My expertise extends to database management with SQL, NoSQL, MongoDB, and PostgreSQL, alongside a strong foundation in Python, R, MATLAB, and Scala for data analysis and machine learning. I'm passionate about leveraging this diverse skill set to solve challenging problems, drive innovation, and contribute to the success of my team and projects. I'm keen to connect with professionals and organizations looking to make a significant impact through technology.
 
 
 <h3 align="left">Connect with me:</h3>
@@ -46,9 +46,9 @@ Apart from coding, I also maintain a blog - you can find my portfolio and resume
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 
 <!---Frameworks-->
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)
+![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next&logoColor=white&color=61DAFB)
 
 <!---Databases-->
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)

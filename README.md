@@ -78,7 +78,7 @@ Apart from coding, I also maintain a blog and write some tech stuffs [Medium](ht
 ![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
 ## &#9819; Daily Dev Card
-<a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv" width="356" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+<a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 
 
 ## 😂 Random Dev Meme + ✍️ Random Dev Quote

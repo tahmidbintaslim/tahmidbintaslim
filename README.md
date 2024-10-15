@@ -81,8 +81,8 @@ Apart from coding, I also maintain a blog and write some tech stuffs [Medium](ht
 <a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
 
 
-## 😂 Random Dev Meme + ✍️ Random Dev Quote
-<img src='https://codermemes.vercel.app/' style="width:200px"/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 <!-- icons with padding -->
 

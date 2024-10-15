@@ -82,7 +82,7 @@ Apart from coding, I also maintain a blog and write some tech stuffs [Medium](ht
 
 
 ## 😂 Random Dev Meme + ✍️ Random Dev Quote
-<img src='https://randommeme-five.vercel.app/' style="width:200px"/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
+<img src='https://codermemes.vercel.app/' style="width:200px"/> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight) 
 
 <!-- icons with padding -->
 

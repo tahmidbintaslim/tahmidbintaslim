@@ -3,9 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-HelIo,  I am Rafi, a versatile Software Engineer with over five years of experience in full stack development and data science. I specialize in creating scalable web solutions using technologies like React, Vue.js, Node.js, and PHP, along with expertise in SQL, NoSQL, MongoDB, and PostgreSQL. My strong foundation in Python, R, and MATLAB allows me to integrate machine learning and data analysis into innovative projects.
-
-I am passionate about solving complex problems and delivering high-quality, efficient solutions. My experience spans both technical development and leadership, driving team success through collaboration and cutting-edge technology. I’m excited to contribute to forward-thinking teams and impactful projects.
+Dynamic Senior Software Developer with 5+ years of hands-on experience in software engineering and web application development. Proven track record in spearheading high-impact projects, including creating Web Applications, custom WordPress websites and developing innovative e-commerce solutions. Skilled in collaborating with cross-functional teams to meet business requirements and drive scalability and maintainability. Proficient in a wide range of technologies, including Python, JavaScript, Node.js, and cloud platforms. Adept at leveraging machine learning and data science to optimize performance. Aiming to bring visionary leadership and expertise in software architecture to a forward-thinking organization.
 
 Hire me: https://iglu.net/talent/senior-software-developer/
 

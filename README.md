@@ -9,15 +9,16 @@ I'm **Tahmid Bin Taslim Rafi**, a dynamic **Senior Software Developer** with ove
 
 *Keywords: Senior Software Developer, Python, JavaScript, Node.js, Cloud Platforms, Machine Learning, Data Science, WordPress, E-commerce, Scalable Software, IT Professional.*
 
+
+Hire me: https://iglu.net/talent/senior-software-developer/
+
+
 ---
+
 
 ## Connect with Me
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg "LinkedIn")](https://www.linkedin.com/in/tahmid-bin-taslim/)  
-[![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg "Facebook")](https://www.facebook.com/itstahmid100/)  
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg "Instagram")](https://www.instagram.com/itstahmid100/)  
-[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg "Twitter")](https://twitter.com/rafi_it100)  
-[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg "Discord")](https://discordapp.com/users/tahmidbintaslimrafi)
+<a href="https://www.linkedin.com/in/tahmid-bin-taslim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a> <a href="https://www.facebook.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a> <a href="https://www.instagram.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a> <a href="https://twitter.com/rafi_it100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_it100" height="30" width="40" /></a> <a href="https://discordapp.com/users/tahmidbintaslimrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
 
 <img style="padding-left:5px" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" alt="Coding GIF" />
 

@@ -3,19 +3,38 @@ Author: Tahmid Bin Taslim Rafi
 Updated On: Today lol
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />
 
-I’m a dynamic **Senior Software Developer** with over **5 years** of hands-on experience in the IT industry. I have a proven track record of spearheading high-impact projects—ranging from creating modern web applications and custom WordPress websites to developing innovative e-commerce solutions. I excel at collaborating with cross-functional teams to meet business requirements while driving scalability and maintainability. My technical expertise spans **Python, JavaScript, Node.js, and cloud platforms**, and I leverage machine learning and data science to optimize performance. My goal is to bring visionary leadership and deep expertise in software architecture to a forward-thinking organization.
+I'm **Tahmid Bin Taslim Rafi**, a dynamic **Senior Software Developer** with over **5 years** of hands-on experience in the IT industry. I specialize in developing high-impact projects—from modern web applications and custom WordPress sites to innovative e-commerce solutions. I thrive in cross-functional teams to deliver scalable, maintainable, and performance-optimized software using technologies like **Python, JavaScript, Node.js, and cloud platforms**. I also leverage machine learning and data science to boost performance and drive visionary software architecture.
 
-## Connect with me
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/tahmid-bin-taslim/) [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://www.facebook.com/itstahmid100/) [![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://www.instagram.com/itstahmid100/) [![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/rafi_it100) [![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discordapp.com/users/tahmidbintaslimrafi)
+---
+
+## Connect with Me
+
+<h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/tahmid-bin-taslim/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="24" width="24" />
+</a>
+<a href="https://www.facebook.com/itstahmid100/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="24" width="24" />
+</a>
+<a href="https://www.instagram.com/itstahmid100/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="24" width="24" />
+</a>
+<a href="https://twitter.com/rafi_it100" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="24" width="24" />
+</a>
+<a href="https://discordapp.com/users/tahmidbintaslimrafi" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="24" width="24" />
+</a>
 
 <img style="padding-left:5px" align="right" alt="Coding GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" />
 
 ---
 
-## &#x270d; Hobbies
-When I'm not coding, I love to write about technology on my [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslimrafi) blogs. I also enjoy tackling frontend challenges and solving problems on [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) and [CodePen](https://codepen.io/tahmid-bin-taslim).
+## About Me & Hobbies
+
+Apart from coding, I enjoy sharing my passion for technology through writing. I maintain blogs on [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslimrafi), and I tackle various frontend challenges and problem-solving tasks on platforms like [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) and [CodePen](https://codepen.io/tahmid-bin-taslim).
 
 ---
 
@@ -82,7 +101,9 @@ When I'm not coding, I love to write about technology on my [Medium](https://tah
 ---
 
 ## &#9819; Daily Dev Card
-<a href="https://app.daily.dev/tahmidbintaslim"><img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid Bin Taslim Rafi's Dev Card"/></a>
+<a href="https://app.daily.dev/tahmidbintaslim">
+  <img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid Bin Taslim Rafi's Dev Card"/>
+</a>
 
 ---
 

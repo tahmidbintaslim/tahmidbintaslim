@@ -1,103 +1,110 @@
 <!--
 Author: Tahmid Bin Taslim Rafi
-Updated On: Today lol
+Updated: June 2025 - Horizontal Flex UI
 -->
 
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" />
+# Hi there, I'm Tahmid Bin Taslim Rafi! 👋
 
-I'm **Tahmid Bin Taslim Rafi**, a dynamic **Senior Software Developer** with over **5 years** of hands-on experience in the IT industry. I specialize in developing high-impact projects—from modern web applications and custom WordPress sites to innovative e-commerce solutions. I work with cross-functional teams to deliver scalable, maintainable, and performance-optimized software using technologies like **Python, JavaScript, Node.js, and cloud platforms**. I also leverage machine learning and data science to boost performance and drive visionary software architecture.
+<table>
+<tr>
+<td>
 
-*Keywords: Senior Software Developer, Python, JavaScript, Node.js, Cloud Platforms, Machine Learning, Data Science, WordPress, E-commerce, Scalable Software, IT Professional.*
+I am a **Senior Software Engineer** with 6+ years experience in full-stack development, SaaS, cloud, e-commerce & ML.
 
-Portfolio: https://tahmid-github-io.vercel.app/
-Hire me: https://iglu.net/talent/senior-software-developer/
+- 💻 Python | Node.js | JavaScript | TypeScript | React | Vue
+- ☁ AWS | Docker | Kubernetes | CI/CD | SaaS Architectures
+- 📊 MongoDB | PostgreSQL | Redis | Cloud Databases
+- 🧠 AI/ML | SEO Automation | Distributed Systems
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-bin-taslim/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat)](https://tahmid-github-io.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tahmidbintaslimrafi@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/RAFI_it100)
 
----
+</td>
+<td>
 
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" alt="Coding GIF">
 
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/tahmid-bin-taslim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a> <a href="https://www.facebook.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="#" height="30" width="40" /></a> <a href="https://www.instagram.com/itstahmid100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a> <a href="https://twitter.com/rafi_it100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafi_it100" height="30" width="40" /></a> <a href="https://discordapp.com/users/tahmidbintaslimrafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#" height="30" width="40" /></a>
-
-<img style="padding-left:5px" align="right" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="450" height="320" alt="Coding GIF" />
-
----
-
-## About Me & Hobbies
-
-Beyond coding, I love sharing my passion for technology. I regularly write in-depth tech articles and tutorials on my [Medium](https://tahmidbintaslimrafi.medium.com/) and [DEV.to](https://dev.to/tahmidbintaslimrafi) blogs. I also challenge myself with frontend coding puzzles on [LeetCode](https://leetcode.com/tahmidbintaslimrafi/) and create innovative designs on [CodePen](https://codepen.io/tahmid-bin-taslim). My expertise spans full-stack development, machine learning integration, and cloud computing solutions.
-
----
-
-## 🔧 Technologies & Tools
-
-### Web3  
-![](https://img.shields.io/badge/Web3-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)  
-![](https://img.shields.io/badge/Web3-Web3js-informational?style=flat&logo=web3dotjs&logoColor=white&color=F16822)  
-![](https://img.shields.io/badge/Web3-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
-
-### Data Science  
-![](https://img.shields.io/badge/DS-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)  
-![](https://img.shields.io/badge/DS-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=013243)  
-![](https://img.shields.io/badge/DS-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)  
-![](https://img.shields.io/badge/DS-Scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=F7931E)  
-![](https://img.shields.io/badge/DS-Scipy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)  
-![](https://img.shields.io/badge/DS-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
-
-### Operating Systems  
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D4)  
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=000000)
-
-### Code Editors  
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)  
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=000000)
-
-### Programming Languages  
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)  
-![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
-
-### Frameworks  
-![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)  
-![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)  
-![](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=next&logoColor=white&color=61DAFB)
-
-### Databases  
-![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)  
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)  
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)  
-![](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
-
-### ORM  
-![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)  
-![](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=D71F00)
-
-### Testing  
-![](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A)
-
-### Other Tools  
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4EAA25)  
-![](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=181717)  
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25)  
-![](https://img.shields.io/badge/Shell-Zsh-informational?style=flat&logo=zsh&logoColor=white&color=F15A24)  
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)  
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)  
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=0080FF)  
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)  
-![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)  
-![](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
+</td>
+</tr>
+</table>
 
 ---
 
-## Daily Dev Card
+## 🔧 Tech Stack
 
-[![Daily Dev Card](https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide)](https://app.daily.dev/tahmidbintaslim)
+<table>
+<tr>
+<td>
+
+### Languages & Frameworks
+
+![Python](https://img.shields.io/badge/-Python-2bbc8a?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+
+</td>
+<td>
+
+### Cloud & Tools
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Random Dev Quote
+## 📊 GitHub Insights
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<table>
+<tr>
+<td>
+
+![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight)
+
+</td>
+<td>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=false)
+
+</td>
+</tr>
+</table>
+
+---
+
+## ✍️ Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- Coming soon: integration with DEV.to or Medium RSS Feed!
+
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🎯 Dev Quote
+
+> "Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+Thanks for stopping by 🚀

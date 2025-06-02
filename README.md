@@ -114,7 +114,7 @@ Linux, Windows, MacOS, VSCode, IntelliJ IDEA
 <tr>
 <td colspan="2">
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tahmidbintaslim&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tahmidbintaslim&theme=tokyo-night&hide_border=true)
 
 </td>
 </tr>
@@ -122,9 +122,11 @@ Linux, Windows, MacOS, VSCode, IntelliJ IDEA
 
 ---
 
-## ✍️ Latest Blog Posts
+## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
+
+- Coming soon: auto-sync blog articles from DEV.to & Medium!
 
 <!-- BLOG-POST-LIST:END -->
 

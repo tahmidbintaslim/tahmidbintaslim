@@ -141,12 +141,12 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 <tr>
 <td>
 
-![Top Languages used by Tahmid in GitHub repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Languages used by Tahmid in GitHub repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=tokyonight&size_weight=0.5&count_weight=0.5&layout=compact)
 
 </td>
 <td>
 
-![GitHub Current Streak showing recent contribution activity](https://streak-stats.demolab.com?user=tahmidbintaslimrafi%40gmail.com&hide_total_contributions=true&hide_longest_streak=true)
+![GitHub Current Streak showing recent contribution activity](https://streak-stats.demolab.com?user=tahmidbintaslim&theme=tokyonight&hide_total_contributions=true&hide_longest_streak=true)
 
 </td>
 </tr>

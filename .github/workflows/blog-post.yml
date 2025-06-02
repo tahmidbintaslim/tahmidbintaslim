@@ -32,6 +32,10 @@ jobs:
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
         run: |
-          git add README.md
-          git diff --staged --quiet || git commit -m "Updated with the latest blog posts"
-          git push https://x-access-token:${GH_PAT}@github.com/tahmidbintaslim/tahmidbintaslim.git
+          if [ -n "$(git status --porcelain)" ]; then
+            git add README.md
+            git commit -m "Updated with the latest blog posts"
+            git push https://x-access-token:${GH_PAT}@github.com/tahmidbintaslim/tahmidbintaslim.git
+          else
+            echo "No changes to commit"
+          fi

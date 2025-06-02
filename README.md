@@ -29,7 +29,7 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 </td>
 <td>
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" alt="Coding GIF">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="200" alt="Coding GIF">
 
 </td>
 </tr>

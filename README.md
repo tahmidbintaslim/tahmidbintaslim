@@ -125,9 +125,11 @@ Linux, Windows, MacOS, VSCode, IntelliJ IDEA
 ## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
-
-- Coming soon: auto-sync blog articles from DEV.to & Medium!
-
+- [Beginner’s Guide to Prompt Engineering](https://medium.com/@tahmidbintaslimrafi/beginners-guide-to-prompt-engineering-adaea432e2ca?source=rss-bfc1983307a7------2)
+- [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
+- [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)
+- [How Emojis Work Under the Hood](https://medium.com/@tahmidbintaslimrafi/how-emojis-work-under-the-hood-cdb0d08f3e4b?source=rss-bfc1983307a7------2)
+- [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

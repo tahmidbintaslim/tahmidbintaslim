@@ -172,7 +172,7 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 </td>
 <td>
 
-![GitHub Longest Streak](https://streak-stats.demolab.com?user=tahmidbintaslimrafi&hide_total_contributions=true&hide_longest_streak=true)
+![GitHub Current Streak](https://streak-stats.demolab.com?user=tahmidbintaslimrafi)
 
 </td>
 </tr>

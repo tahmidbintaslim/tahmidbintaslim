@@ -1,6 +1,6 @@
 <!--
 Author: Tahmid Bin Taslim Rafi
-Updated: June 2025 - Horizontal Flex UI
+Updated: June 2025 - FINAL PRODUCTION README
 -->
 
 # Hi there, I'm Tahmid Bin Taslim Rafi! 👋
@@ -9,81 +9,112 @@ Updated: June 2025 - Horizontal Flex UI
 <tr>
 <td>
 
-I am a **Senior Software Engineer** with 6+ years experience in full-stack development, SaaS, cloud, e-commerce & ML.
+I am a **Senior Software Engineer** with over **6 years of experience** in full-stack development, SaaS, cloud-native architecture, AI/ML, e-commerce, and scalable API platforms. My expertise spans across:
 
-- 💻 Python | Node.js | JavaScript | TypeScript | React | Vue
-- ☁ AWS | Docker | Kubernetes | CI/CD | SaaS Architectures
-- 📊 MongoDB | PostgreSQL | Redis | Cloud Databases
-- 🧠 AI/ML | SEO Automation | Distributed Systems
+- 💻 Full-Stack Engineering (Python, Node.js, JavaScript, TypeScript, React, Vue)
+- ☁ Cloud Architectures (AWS, Docker, Kubernetes, SaaS, CI/CD)
+- 🧠 AI & ML integration, SEO automation, analytics platforms
+- 🛒 Shopify Plus, WordPress, Headless E-commerce
+- 🚀 SaaS Solutions, Distributed Systems, System Design
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-bin-taslim/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6F61?style=flat)](https://tahmid-github-io.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tahmidbintaslimrafi@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/RAFI_it100)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://tahmid-github-io.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/Hire%20Me-Iglu-blueviolet?style=for-the-badge)](https://iglu.net/talent/senior-software-developer/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tahmid-bin-taslim/)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://tahmidbintaslimrafi.medium.com/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-black?style=flat&logo=devdotto)](https://dev.to/tahmidbintaslimrafi)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/RAFI_it100)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:tahmidbintaslimrafi@gmail.com)
 
 </td>
 <td>
 
-<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" alt="Coding GIF">
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420" alt="Coding GIF">
 
 </td>
 </tr>
 </table>
+
+[![Visitors](https://komarev.com/ghpvc/?username=tahmidbintaslim&style=flat-square&color=blue)](https://github.com/tahmidbintaslim)
+
+---
+
+## 🏆 Career Highlights
+
+- ✅ Architected SaaS platforms for CRM, internal ops & workflow automation.
+- ✅ Delivered complex cloud-native systems on AWS.
+- ✅ Engineered scalable APIs for personalization, CRM, integrations.
+- ✅ AI-powered SEO & analytics (OpenAI, Facebook API, Google Analytics).
+- ✅ GPT-3.5 conversational chatbots for automation.
+- ✅ SaaS integrations: Cal.com, Chatwoot, Outline.
+- ✅ 20+ projects across fintech, SaaS, real estate, automation.
+- ✅ Headless Shopify architecture (Remix, Node.js, TypeScript, Rust).
+- ✅ Custom WordPress & Shopify plugins for eCommerce platforms.
 
 ---
 
 ## 🔧 Tech Stack
 
-<table>
-<tr>
-<td>
+### 🔖 Languages & Frameworks
 
-### Languages & Frameworks
+Python, Node.js, JavaScript, TypeScript, Rust, Go, Ruby, PHP, Java, HTML5, CSS3, React, Next.js, Vue.js, Remix, Laravel
 
-![Python](https://img.shields.io/badge/-Python-2bbc8a?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+### 🔧 Web3
 
-</td>
-<td>
+Solidity, Web3.js, Ethereum
 
-### Cloud & Tools
+### 🔬 Data Science
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+Jupyter, NumPy, Pandas, Scikit-learn, SciPy, TensorFlow
 
-### Databases
+### 🌐 Databases & ORM
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
+PostgreSQL, MongoDB, MySQL, Redis, Prisma, SQLAlchemy
 
-</td>
-</tr>
-</table>
+### ☁ Cloud & Tools
+
+AWS, Docker, Kubernetes, DigitalOcean, Firebase, Supabase
+
+### 🔢 Testing & Automation
+
+CI/CD, Selenium
+
+### 🔧 DevOps & Shells
+
+Git, GitHub, Bash, Zsh
+
+### 💻 OS & IDE
+
+Linux, Windows, MacOS, VSCode, IntelliJ IDEA
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Insights & Visualizations
 
 <table>
 <tr>
 <td>
 
-![Tahmid's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight)
+![Tahmid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight)
 
 </td>
 <td>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=false)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&layout=compact&theme=tokyonight)
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=tahmidbintaslim&theme=tokyo-night&hide_border=true)
 
 </td>
 </tr>
@@ -95,16 +126,20 @@ I am a **Senior Software Engineer** with 6+ years experience in full-stack devel
 
 <!-- BLOG-POST-LIST:START -->
 
-- Coming soon: integration with DEV.to or Medium RSS Feed!
-
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🎯 Dev Quote
+## 🗓️ Daily Dev Card
 
-> "Code is like humor. When you have to explain it, it’s bad."
+[![Daily Dev Card](https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide)](https://app.daily.dev/tahmidbintaslim)
 
 ---
 
-Thanks for stopping by 🚀
+## 🎯 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+Thanks for visiting 🚀

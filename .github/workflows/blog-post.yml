@@ -21,7 +21,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/tahmidbintaslim,https://medium.com/feed/@tahmidbintaslimrafi"
-          max_post_count: 5
+          max_post_count: 15
 
       - name: Configure git
         run: |

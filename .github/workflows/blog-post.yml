@@ -1,5 +1,7 @@
 name: Update latest blog posts
-
+permissions:
+  contents: read
+  pull-requests: write
 on:
   schedule:
     - cron: "0 * * * *"

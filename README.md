@@ -50,8 +50,6 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 
 ## 🔧 Tech Stack
 
-<div align="center">
-
 <details open>
 <summary><h3>💻 Programming Languages</h3></summary>
 <div>
@@ -149,8 +147,6 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 
 </div>
 </details>
-
-</div>
 
 ---
 

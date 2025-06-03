@@ -57,6 +57,9 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
 ![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 
 </div>
@@ -69,6 +72,10 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 ![Vue](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)
 ![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
 ![Next.js](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=61DAFB)
+![Remix](https://img.shields.io/badge/Framework-Remix-informational?style=flat&logo=remix&logoColor=white&color=000000)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
+![Ruby on Rails](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=CC0000)
 
 </div>
 </details>
@@ -104,7 +111,10 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 ![NumPy](https://img.shields.io/badge/DS-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![Pandas](https://img.shields.io/badge/DS-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
 ![TensorFlow](https://img.shields.io/badge/DS-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![PyTorch](https://img.shields.io/badge/DS-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![Keras](https://img.shields.io/badge/DS-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
 ![Scikit-Learn](https://img.shields.io/badge/DS-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=F7931E)
+![Plotly](https://img.shields.io/badge/DS-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3F4F75)
 
 </div>
 </details>
@@ -116,6 +126,7 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
 ![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
 ![Supabase](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 

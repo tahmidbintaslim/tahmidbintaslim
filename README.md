@@ -202,7 +202,7 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 ## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
-
+- [How to Create a React App in 2025](https://medium.com/@tahmidbintaslimrafi/how-to-create-a-react-app-in-2025-6c50503f6268?source=rss-bfc1983307a7------2)
 - [Beginner’s Guide to Prompt Engineering](https://medium.com/@tahmidbintaslimrafi/beginners-guide-to-prompt-engineering-adaea432e2ca?source=rss-bfc1983307a7------2)
 - [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
 - [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)

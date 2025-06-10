@@ -203,11 +203,20 @@ I am a **Senior Software Engineer** with over **6 years of experience** in full-
 
 <!-- BLOG-POST-LIST:START -->
 - [How to Create a React App in 2025](https://dev.to/tahmidbintaslim/how-to-create-a-react-app-in-2025-1kei)
+- [How to Create a React App in 2025](https://medium.com/@tahmidbintaslimrafi/how-to-create-a-react-app-in-2025-6c50503f6268?source=rss-bfc1983307a7------2)
+- [Beginner’s Guide to Prompt Engineering](https://medium.com/@tahmidbintaslimrafi/beginners-guide-to-prompt-engineering-adaea432e2ca?source=rss-bfc1983307a7------2)
 - [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
+- [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)
+- [How Emojis Work Under the Hood](https://medium.com/@tahmidbintaslimrafi/how-emojis-work-under-the-hood-cdb0d08f3e4b?source=rss-bfc1983307a7------2)
+- [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
 - [🧠 First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
+- [Exploring OpenAI Sora: A Leap Forward in AI Technology &lpar;Text to Video&rpar;](https://medium.com/@tahmidbintaslimrafi/exploring-openai-sora-a-leap-forward-in-ai-technology-text-to-video-63362fd2e4e0?source=rss-bfc1983307a7------2)
+- [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://medium.com/@tahmidbintaslimrafi/what-are-object-relational-mappers-orms-bfb8333d1ea7?source=rss-bfc1983307a7------2)
 - [The Best Way to Start Your React Project in 2024: Embracing Vite over Create React App](https://dev.to/tahmidbintaslim/the-best-way-to-start-your-react-project-in-2024-embracing-vite-over-create-react-app-57l)
+- [The Best Way to Start Your React Project in 2024: Embracing Vite over Create React App](https://medium.com/@tahmidbintaslimrafi/the-best-way-to-start-your-react-project-in-2024-embracing-vite-over-create-react-app-39082ea8e9f0?source=rss-bfc1983307a7------2)
 - [Unlocking Data Potential with VS Code Data Wrangler: A Game-Changer for Developers and Data Analysts](https://dev.to/tahmidbintaslim/unlocking-data-potential-with-vs-code-data-wrangler-a-game-changer-for-developers-and-data-analysts-57dk)
+- [Unlocking Data Potential with VS Code Data Wrangler: A Game-Changer for Developers and Data…](https://medium.com/@tahmidbintaslimrafi/unlocking-data-potential-with-vs-code-data-wrangler-a-game-changer-for-developers-and-data-5d8bfbd7df2c?source=rss-bfc1983307a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

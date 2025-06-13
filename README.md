@@ -11,10 +11,10 @@ Updated: June 2025 - FINAL PRODUCTION README
 
 I am a **Senior Software Engineer** with over **6 years of experience** in full-stack development, SaaS, cloud-native architecture, AI/ML, e-commerce, and scalable API platforms. My expertise spans across:
 
-- 💻 Full-Stack Engineering (Python, Node.js, JavaScript, TypeScript, React, Vue)
-- ☁ Cloud Architectures (AWS, Docker, Kubernetes, SaaS, CI/CD)
-- 🧠 AI & ML integration, SEO automation, analytics platforms
-- 🛒 Shopify Plus, WordPress, Headless E-commerce
+- 💻 Full-Stack Engineering (Python, Django, JavaScript, TypeScript, Node.js, Express, React, Vue)
+- ☁ Cloud Architectures (AWS, GCP, Docker, Kubernetes, CI/CD)
+- 🧠 AI & ML integration, Scraping, SEO, Automation, Analytics platforms
+- 🛒 Shopify/Plus, WordPress, Headless E-commerce
 - 🚀 SaaS Solutions, Distributed Systems, System Design
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge "Visit Tahmid's Portfolio Website")](https://tahmid-github-io.vercel.app/)

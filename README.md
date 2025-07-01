@@ -9,7 +9,7 @@ Updated: June 2025 - FINAL PRODUCTION README
 <tr>
 <td>
 
-I am a **Senior Software Engineer** with over **6 years of experience** in full-stack development, SaaS, cloud-native architecture, AI/ML, e-commerce, and scalable API platforms. My expertise spans across:
+I am a **Senior Software Engineer** with over **4+ years of experience** in full-stack development, SaaS, cloud-native architecture, AI/ML, e-commerce, and scalable API platforms. My expertise spans across:
 
 - 💻 Full-Stack Engineering (Python, Django, JavaScript, TypeScript, Node.js, Express, React, Vue)
 - ☁ Cloud Architectures (AWS, GCP, Docker, Kubernetes, CI/CD)

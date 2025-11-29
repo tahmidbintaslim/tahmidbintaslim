@@ -202,6 +202,7 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 ## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma ORM v7 — What’s New &amp; How to Migrate from v6 to v7](https://dev.to/tahmidbintaslim/prisma-orm-v7-whats-new-how-to-migrate-from-v6-to-v7-537l)
 - [Top AI-Powered IDEs for Vibe Coding in 2025](https://dev.to/tahmidbintaslim/top-ai-powered-ides-for-vibe-coding-in-2025-3haa)
 - [Easy Steps to Learn Machine Learning for Python Beginners](https://medium.com/@tahmidbintaslimrafi/easy-steps-to-learn-machine-learning-for-python-beginners-49a9d3fe1f3e?source=rss-bfc1983307a7------2)
 - [Exploring Free Public APIs for Developers and Startups](https://medium.com/@tahmidbintaslimrafi/exploring-free-public-apis-for-developers-and-startups-33e13b03c90b?source=rss-bfc1983307a7------2)
@@ -216,7 +217,6 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
 - [Exploring OpenAI Sora: A Leap Forward in AI Technology &lpar;Text to Video&rpar;](https://medium.com/@tahmidbintaslimrafi/exploring-openai-sora-a-leap-forward-in-ai-technology-text-to-video-63362fd2e4e0?source=rss-bfc1983307a7------2)
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://medium.com/@tahmidbintaslimrafi/what-are-object-relational-mappers-orms-bfb8333d1ea7?source=rss-bfc1983307a7------2)
-- [The Best Way to Start Your React Project in 2024: Embracing Vite over Create React App](https://dev.to/tahmidbintaslim/the-best-way-to-start-your-react-project-in-2024-embracing-vite-over-create-react-app-57l)
 <!-- BLOG-POST-LIST:END -->
 
 ---

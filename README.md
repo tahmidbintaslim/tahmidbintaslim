@@ -202,6 +202,7 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 ## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
+- [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
 - [Prisma ORM v7 — What’s New &amp; How to Migrate from v6 to v7](https://dev.to/tahmidbintaslim/prisma-orm-v7-whats-new-how-to-migrate-from-v6-to-v7-537l)
 - [Top AI-Powered IDEs for Vibe Coding in 2025](https://dev.to/tahmidbintaslim/top-ai-powered-ides-for-vibe-coding-in-2025-3haa)
 - [Easy Steps to Learn Machine Learning for Python Beginners](https://medium.com/@tahmidbintaslimrafi/easy-steps-to-learn-machine-learning-for-python-beginners-49a9d3fe1f3e?source=rss-bfc1983307a7------2)
@@ -213,10 +214,9 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 - [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)
 - [How Emojis Work Under the Hood](https://medium.com/@tahmidbintaslimrafi/how-emojis-work-under-the-hood-cdb0d08f3e4b?source=rss-bfc1983307a7------2)
 - [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
-- [🧠 First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
+- [First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
 - [Exploring OpenAI Sora: A Leap Forward in AI Technology &lpar;Text to Video&rpar;](https://medium.com/@tahmidbintaslimrafi/exploring-openai-sora-a-leap-forward-in-ai-technology-text-to-video-63362fd2e4e0?source=rss-bfc1983307a7------2)
-- [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://medium.com/@tahmidbintaslimrafi/what-are-object-relational-mappers-orms-bfb8333d1ea7?source=rss-bfc1983307a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

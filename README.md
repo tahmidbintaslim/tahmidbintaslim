@@ -202,6 +202,7 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 ## ✍️ Latest Blog Posts (Auto-updated via GitHub Actions)
 
 <!-- BLOG-POST-LIST:START -->
+- [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
 - [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
 - [Prisma ORM v7 — What’s New &amp; How to Migrate from v6 to v7](https://dev.to/tahmidbintaslim/prisma-orm-v7-whats-new-how-to-migrate-from-v6-to-v7-537l)
 - [Top AI-Powered IDEs for Vibe Coding in 2025](https://dev.to/tahmidbintaslim/top-ai-powered-ides-for-vibe-coding-in-2025-3haa)
@@ -216,7 +217,6 @@ I am a **Senior Software Engineer** with over **4+ years of experience** in full
 - [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
 - [First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
-- [Exploring OpenAI Sora: A Leap Forward in AI Technology &lpar;Text to Video&rpar;](https://medium.com/@tahmidbintaslimrafi/exploring-openai-sora-a-leap-forward-in-ai-technology-text-to-video-63362fd2e4e0?source=rss-bfc1983307a7------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---

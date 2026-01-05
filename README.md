@@ -170,8 +170,7 @@ const tahmid = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tahmidbintaslim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact" />
+  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=8" />
   
 </div>
 

@@ -199,18 +199,18 @@ const tahmid = {
 <!-- BLOG-POST-LIST:START -->
 - [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
 - [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
-- [Prisma ORM v7 — What's New &amp; How to Migrate from v6 to v7](https://dev.to/tahmidbintaslim/prisma-orm-v7-whats-new-how-to-migrate-from-v6-to-v7-537l)
+- [Prisma ORM v7 — What’s New &amp; How to Migrate from v6 to v7](https://dev.to/tahmidbintaslim/prisma-orm-v7-whats-new-how-to-migrate-from-v6-to-v7-537l)
 - [Top AI-Powered IDEs for Vibe Coding in 2025](https://dev.to/tahmidbintaslim/top-ai-powered-ides-for-vibe-coding-in-2025-3haa)
 - [Easy Steps to Learn Machine Learning for Python Beginners](https://medium.com/@tahmidbintaslimrafi/easy-steps-to-learn-machine-learning-for-python-beginners-49a9d3fe1f3e?source=rss-bfc1983307a7------2)
 - [Exploring Free Public APIs for Developers and Startups](https://medium.com/@tahmidbintaslimrafi/exploring-free-public-apis-for-developers-and-startups-33e13b03c90b?source=rss-bfc1983307a7------2)
 - [How to Create a React App in 2025](https://dev.to/tahmidbintaslim/how-to-create-a-react-app-in-2025-1kei)
 - [How to Create a React App in 2025](https://medium.com/@tahmidbintaslimrafi/how-to-create-a-react-app-in-2025-6c50503f6268?source=rss-bfc1983307a7------2)
-- [Beginner's Guide to Prompt Engineering](https://medium.com/@tahmidbintaslimrafi/beginners-guide-to-prompt-engineering-adaea432e2ca?source=rss-bfc1983307a7------2)
-- [Beginner's Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
+- [Beginner’s Guide to Prompt Engineering](https://medium.com/@tahmidbintaslimrafi/beginners-guide-to-prompt-engineering-adaea432e2ca?source=rss-bfc1983307a7------2)
+- [Beginner’s Guide to Prompt Engineering](https://dev.to/tahmidbintaslim/beginners-guide-to-prompt-engineering-52pj)
 - [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)
 - [How Emojis Work Under the Hood](https://medium.com/@tahmidbintaslimrafi/how-emojis-work-under-the-hood-cdb0d08f3e4b?source=rss-bfc1983307a7------2)
-- [First Principles Thinking: A Software Engineer's Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
-- [First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
+- [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
+- [First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 - [What are Object-Relational Mappers &lpar;ORMs&rpar;?](https://dev.to/tahmidbintaslim/what-are-object-relational-mappers-orms-4clb)
 <!-- BLOG-POST-LIST:END -->
 

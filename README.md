@@ -56,6 +56,7 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 | **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Firebase, Prisma |
 | **Cloud & DevOps** | AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD |
 | **AI/ML** | OpenAI, TensorFlow, PyTorch, GPT Integration |
+| **Web3** | Solidity, Web3.js, Ethereum |
 | **E-Commerce** | Shopify Plus, WordPress, Headless CMS, Klaviyo |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -169,6 +170,10 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
   <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&perline=8" alt="Cloud & DevOps" />
 </picture>
 
+### <img src="https://img.shields.io/badge/Web3-&_Blockchain-363636?style=flat-square&logo=ethereum&logoColor=white" height="20"/> Web3 & Blockchain
+
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+
 ### <img src="https://img.shields.io/badge/AI/ML-&_Data_Science-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/> AI/ML & Data Science
 
 <picture>
@@ -178,6 +183,8 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 </picture>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### <img src="https://img.shields.io/badge/E--Commerce-&_CMS-7AB55C?style=flat-square&logo=shopify&logoColor=white" height="20"/> E-Commerce & CMS
 
@@ -190,6 +197,8 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
   <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light&perline=8" />
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&perline=8" alt="Tools" />
 </picture>
+
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

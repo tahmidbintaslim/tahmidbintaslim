@@ -28,205 +28,220 @@
 <!-- Decorative line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- About Me Section - Modern Card Layout -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/> About Me
 
-<!-- About Me Section with modern card layout -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"/> 
-  About Me
-</h2>
+I'm a **Senior Software Engineer** with **4+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-```typescript
-const tahmid = {
-    role: "Senior Software Engineer",
-    experience: "4+ years",
-    location: "🌍 Building solutions globally",
-    currentCompany: "Marion's Kitchen Group",
-    expertise: {
-        languages: ["JavaScript", "TypeScript", "Python", "PHP", "Rust", "Go", "Ruby"],
-        frontend: ["React", "Next.js", "Vue.js", "Angular", "Remix", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "Django", "Flask", "FastAPI", "Laravel", "GraphQL"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis", "Firebase", "Prisma"],
-        cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform", "CI/CD"],
-        aiML: ["OpenAI", "TensorFlow", "PyTorch", "GPT Integration"],
-        eCommerce: ["Shopify Plus", "WordPress", "Headless CMS", "Klaviyo"]
-    },
-    passions: ["Building scalable systems", "AI/ML integration", "Clean architecture"],
-    currentFocus: ["Shopify Headless Development", "AI-powered automation", "Performance optimization"],
-    funFact: "I turn coffee ☕ into code and bugs 🐛 into features ✨"
-};
-```
+### 🎯 Quick Overview
 
-</div>
+- 🔭 Currently working on **Shopify Headless Development**
+- 🚀 Specialized in **Full Stack & Cloud Architecture**
+- 🤖 Building **AI-powered automation solutions**
+- 🌍 Based in **Thailand**, working globally
+- ☕ Fun fact: *I turn coffee into code and bugs into features*
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</td>
+<td width="50%">
 
+### 📊 Key Metrics
 
-<!-- Career Highlights with modern design -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"/>
-  Career Highlights
-</h2>
+| Metric | Value |
+|--------|-------|
+| 💼 Years Experience | **4+** |
+| 🚀 Enterprise Projects | **20+** |
+| 🛠️ Technologies Mastered | **50+** |
+| ⏱️ System Uptime Achieved | **99.9%** |
 
-<details open>
-<summary><b>🏆 Key Achievements</b></summary>
-<br>
+</td>
+</tr>
+</table>
 
-<div align="left">
+### 💻 Core Expertise
 
-```yaml
-🚀 SaaS Architecture:
-  - Designed and deployed enterprise-grade CRM platforms
-  - Built workflow automation systems serving 10,000+ users
-  - Implemented microservices architecture on AWS
-  - Engineered complex TCAS (Thai University Central Admission System)
-
-☁️ Cloud Engineering:
-  - Architected cloud-native solutions on AWS & GCP
-  - Reduced infrastructure costs by 40% through optimization
-  - Achieved 99.9% uptime for production systems
-
-🤖 AI/ML Integration:
-  - Developed GPT-3.5 powered conversational chatbots
-  - Integrated AI-driven SEO and analytics platforms
-  - Built custom OpenAI solutions for automation at Adaptivity
-
-💼 Enterprise Solutions:
-  - Delivered 20+ projects across fintech, SaaS, and real estate
-  - Custom WordPress & Shopify plugins for Fortune 500 clients
-  - SaaS integrations: Cal.com, Chatwoot, Outline, and more
-
-🛒 E-Commerce Excellence:
-  - Led Shopify Headless development at Marion's Kitchen (~40% sales boost)
-  - Built Klaviyo marketing integrations for advanced personalization
-  - Developed Scholl Thailand with complex API integrations
-```
-
-</div>
-
-</details>
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | JavaScript, TypeScript, Python, PHP, Rust, Go, Ruby |
+| **Frontend** | React, Next.js, Vue.js, Angular, Remix, Tailwind CSS |
+| **Backend** | Node.js, Express.js, Django, Flask, FastAPI, Laravel, GraphQL |
+| **Databases** | PostgreSQL, MongoDB, MySQL, Redis, Firebase, Prisma |
+| **Cloud & DevOps** | AWS, GCP, Azure, Docker, Kubernetes, Terraform, CI/CD |
+| **AI/ML** | OpenAI, TensorFlow, PyTorch, GPT Integration |
+| **E-Commerce** | Shopify Plus, WordPress, Headless CMS, Klaviyo |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Career Highlights - Modern Design -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Career Highlights
 
-<!-- Featured Projects Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"/>
-  Featured Projects
-</h2>
+### 🚀 SaaS & Architecture
 
-<div align="center">
+- Designed and deployed **enterprise-grade CRM platforms**
+- Built workflow automation systems serving **10,000+ users**
+- Implemented **microservices architecture** on AWS
+- Engineered complex **TCAS** (Thai University Central Admission System)
 
-| Project | Description | Tech Stack | Role |
-|---------|-------------|------------|------|
-| 🏠 **[Amazing Properties](https://amazingproperties.org/)** | Full Stack Headless Application with Algolia AI | React, Next.js, Node.js, GraphQL, WordPress | Team Lead @ Trienpont |
-| 🍳 **[Marion's Kitchen](https://marions.co.th/)** | Shopify Headless e-commerce with ~40% sales boost | Remix, Node.js, TypeScript, Rust, Shopify Plus | Senior Developer |
-| 👟 **[Scholl Thailand](https://schollshoesthailand.com/)** | Shopify Plus with complex API integrations | Shopify Plus, Python, PHP, Ruby, CRM | Full Stack Developer |
-| 🏢 **[Relevant Audience](https://www.relevantaudience.com/)** | Company brand website with modern UI/UX | WordPress, PHP, AlpineJS, Tailwind CSS | Full Stack Developer |
-| 🌿 **[Aroma Thailand](https://aromathailand.com/)** | Brand website + HR system | WordPress, React, Node.js, MongoDB | Full Stack Developer |
-| ☕ **[Chao Doi](https://chaodoi.co.th/)** | Headless WordPress with API integrations | WordPress, Headless CMS, CRM | Full Stack Developer |
-| 🧸 **[Plantoys Thailand](https://th.plantoys.com/)** | Shopify e-commerce with CRM integration | Shopify, API Integration, Payment Gateway | Full Stack Developer |
+### ☁️ Cloud Engineering
 
-</div>
+- Architected **cloud-native solutions** on AWS & GCP
+- Reduced infrastructure costs by **40%** through optimization
+- Achieved **99.9% uptime** for production systems
+
+### 🤖 AI/ML Integration
+
+- Developed **GPT-3.5 powered** conversational chatbots
+- Integrated AI-driven SEO and analytics platforms
+- Built custom **OpenAI solutions** for automation at Adaptivity
+
+### 💼 Enterprise Solutions
+
+- Delivered **20+ projects** across fintech, SaaS, and real estate
+- Custom WordPress & Shopify plugins for **Fortune 500 clients**
+- SaaS integrations: Cal.com, Chatwoot, Outline, and more
+
+### 🛒 E-Commerce Excellence
+
+- Led Shopify Headless development at Marion's Kitchen (**~40% sales boost**)
+- Built **Klaviyo marketing integrations** for advanced personalization
+- Developed Scholl Thailand with complex API integrations
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Featured Projects Section - Clean Card Layout -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Featured Projects
 
-<!-- Tech Stack with beautiful visual organization -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"/>
-  Tech Stack & Expertise
-</h2>
+### 🏠 [Amazing Properties](https://amazingproperties.org/)
+**Full Stack Headless Application with Algolia AI**
 
-<div align="center">
+| Role | Tech Stack |
+|------|------------|
+| Team Lead @ Trienpont | React, Next.js, Node.js, GraphQL, WordPress |
+
+---
+
+### 🍳 [Marion's Kitchen](https://marions.co.th/)
+**Shopify Headless e-commerce with ~40% sales boost**
+
+| Role | Tech Stack |
+|------|------------|
+| Senior Developer | Remix, Node.js, TypeScript, Rust, Shopify Plus |
+
+---
+
+### 👟 [Scholl Thailand](https://schollshoesthailand.com/)
+**Shopify Plus with complex API integrations**
+
+| Role | Tech Stack |
+|------|------------|
+| Full Stack Developer | Shopify Plus, Python, PHP, Ruby, CRM |
+
+---
+
+### 🏢 [Relevant Audience](https://www.relevantaudience.com/)
+**Company brand website with modern UI/UX**
+
+| Role | Tech Stack |
+|------|------------|
+| Full Stack Developer | WordPress, PHP, AlpineJS, Tailwind CSS |
+
+---
+
+### 🌿 [Aroma Thailand](https://aromathailand.com/)
+**Brand website + HR system**
+
+| Role | Tech Stack |
+|------|------------|
+| Full Stack Developer | WordPress, React, Node.js, MongoDB |
+
+---
+
+### ☕ [Chao Doi](https://chaodoi.co.th/)
+**Headless WordPress with API integrations**
+
+| Role | Tech Stack |
+|------|------------|
+| Full Stack Developer | WordPress, Headless CMS, CRM |
+
+---
+
+### 🧸 [Plantoys Thailand](https://th.plantoys.com/)
+**Shopify e-commerce with CRM integration**
+
+| Role | Tech Stack |
+|------|------------|
+| Full Stack Developer | Shopify, API Integration, Payment Gateway |
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- Tech Stack with visual organization -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/> Tech Stack & Expertise
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
 
 ### 🎨 Frontend & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
 
 ### ⚙️ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
 
 ### 🗄️ Databases & Caching
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
 
 ### ☁️ Cloud & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
 
 ### 🤖 AI/ML & Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛒 E-Commerce & CMS
-<p>
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Klaviyo-0A0A0A?style=for-the-badge&logo=klaviyo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
+
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Klaviyo](https://img.shields.io/badge/Klaviyo-0A0A0A?style=for-the-badge&logo=klaviyo&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
-</p>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!-- GitHub Stats -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+
+<img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=10" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tahmidbintaslim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="98%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=tahmidbintaslim&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!-- Latest Blog Posts - Left Aligned -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Latest Blog Posts 📝
 
-<!-- GitHub Stats with beautiful layout -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"/>
-  GitHub Analytics
-</h2>
-
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
-  
-  <img width="99%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact&langs_count=10" />
-  
-</div>
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahmidbintaslim&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="98%"/>
-</div>
-
-<!-- Trophy Stats -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahmidbintaslim&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Latest Blog Posts with modern design -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"/>
-  Latest Blog Posts 📝
-</h2>
-
-<div align="center">
-  
 *Auto-updated via GitHub Actions*
 
 <!-- BLOG-POST-LIST:START -->
@@ -242,46 +257,33 @@ const tahmid = {
 - [First Principles Thinking: A Software Engineer's Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 <!-- BLOG-POST-LIST:END -->
 
-<a href="https://dev.to/tahmidbintaslimrafi" target="_blank">
-  <img src="https://img.shields.io/badge/Read_More-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read More on Dev.to"/>
-</a>
-<a href="https://tahmidbintaslimrafi.medium.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Medium_Blog-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium"/>
-</a>
-
-</div>
+[![Read More](https://img.shields.io/badge/Read_More-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tahmidbintaslimrafi)
+[![Medium Blog](https://img.shields.io/badge/Medium_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tahmidbintaslimrafi.medium.com/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Community & DevCard Section -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px" height="35px"/>
-  Community Presence
-</h2>
-
-<div align="center">
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Community Presence
 
 ### 📊 Daily Dev Card
 
-[![Daily Dev Card](https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide)](https://app.daily.dev/tahmidbintaslim)
+<a href="https://app.daily.dev/tahmidbintaslim">
+  <img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid's Dev Card"/>
+</a>
 
 ### 🌐 Connect With Me
 
-<p>
-  <a href="https://github.com/tahmidbintaslim/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.youtube.com/@theasmrcoding"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="https://discordapp.com/users/561564380022439950"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="https://www.instagram.com/itstahmid100/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://www.facebook.com/itstahmid100/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
-  <a href="https://www.buymeacoffee.com/09071998"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
-</p>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidbintaslim/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theasmrcoding)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/561564380022439950)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itstahmid100/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/itstahmid100/)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/09071998)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Dev Quote Section -->
-<h2 align="center">💭 Dev Quote of the Day</h2>
+## 💭 Dev Quote of the Day
 
 <div align="center">
 

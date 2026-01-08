@@ -33,10 +33,6 @@
 
 I'm a **Senior Software Engineer** with **4+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎯 Quick Overview
 
 - 🔭 Currently working on **Shopify Headless Development**
@@ -44,9 +40,6 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 - 🤖 Building **AI-powered automation solutions**
 - 🌍 Based in **Thailand**, working globally
 - ☕ Fun fact: *I turn coffee into code and bugs into features*
-
-</td>
-<td width="50%">
 
 ### 📊 Key Metrics
 
@@ -56,10 +49,6 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 | 🚀 Enterprise Projects | **20+** |
 | 🛠️ Technologies Mastered | **50+** |
 | ⏱️ System Uptime Achieved | **99.9%** |
-
-</td>
-</tr>
-</table>
 
 ### 💻 Core Expertise
 
@@ -182,37 +171,65 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby" alt="Languages" />
+</picture>
 
 ### 🎨 Frontend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass" alt="Frontend" />
+</picture>
 
 ### ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql" alt="Backend" />
+</picture>
 
 ### 🗄️ Databases & Caching
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma" alt="Databases" />
+</picture>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions" alt="Cloud & DevOps" />
+</picture>
 
 ### 🤖 AI/ML & Data Science
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML" />
+</picture>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ### 🛒 E-Commerce & CMS
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Klaviyo](https://img.shields.io/badge/Klaviyo-0A0A0A?style=for-the-badge&logo=klaviyo&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Klaviyo](https://img.shields.io/badge/Klaviyo-232F3E?style=for-the-badge&logo=klaviyo&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows" alt="Tools" />
+</picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -252,8 +269,8 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 - [First Principles Thinking: A Software Engineer's Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 <!-- BLOG-POST-LIST:END -->
 
-[![Read More](https://img.shields.io/badge/Read_More-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tahmidbintaslimrafi)
-[![Medium Blog](https://img.shields.io/badge/Medium_Blog-000000?style=for-the-badge&logo=medium&logoColor=white)](https://tahmidbintaslimrafi.medium.com/)
+[![Read More](https://img.shields.io/badge/Read_More-3B3B3B?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tahmidbintaslimrafi)
+[![Medium Blog](https://img.shields.io/badge/Medium_Blog-242424?style=for-the-badge&logo=medium&logoColor=white)](https://tahmidbintaslimrafi.medium.com/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -266,7 +283,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 
 ### 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidbintaslim/)
+[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidbintaslim/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theasmrcoding)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/561564380022439950)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itstahmid100/)

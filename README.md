@@ -267,9 +267,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 
 ### 📊 Daily Dev Card
 
-<a href="https://app.daily.dev/tahmidbintaslim">
-  <img src="https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide" width="652" alt="Tahmid's Dev Card"/>
-</a>
+[![Tahmid's Dev Card](https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide)](https://app.daily.dev/tahmidbintaslim)
 
 ### 🌐 Connect With Me
 

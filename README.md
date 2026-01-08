@@ -11,8 +11,8 @@
   <a href="https://tahmid-github-io.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://iglu.net/talent/senior-software-developer/"><img src="https://img.shields.io/badge/💼_Hire_Me-8B5CF6?style=for-the-badge&logoColor=white" alt="Hire Me"/></a>
   <a href="https://www.linkedin.com/in/tahmid-bin-taslim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://tahmidbintaslimrafi.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-  <a href="https://dev.to/tahmidbintaslimrafi"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
+  <a href="https://tahmidbintaslimrafi.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://dev.to/tahmidbintaslimrafi"><img src="https://img.shields.io/badge/Dev.to-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="https://twitter.com/RAFI_it100"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="mailto:tahmidbintaslimrafi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
@@ -43,12 +43,12 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 
 ### 📊 Key Metrics
 
-| Metric | Value |
-|--------|-------|
-| 💼 Years Experience | **4+** |
-| 🚀 Enterprise Projects | **20+** |
-| 🛠️ Technologies Mastered | **50+** |
-| ⏱️ System Uptime Achieved | **99.9%** |
+<p>
+  <img src="https://img.shields.io/badge/Experience-4%2B_Years-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Projects-20%2B_Enterprise-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Technologies-50%2B_Mastered-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Technologies"/>
+  <img src="https://img.shields.io/badge/Uptime-99.9%25-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Uptime"/>
+</p>
 
 ### 💻 Core Expertise
 
@@ -67,102 +67,105 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <!-- Career Highlights - Modern Design -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Career Highlights
 
-### 🚀 SaaS & Architecture
+<details open>
+<summary><b>🚀 SaaS & Architecture</b></summary>
 
 - Designed and deployed **enterprise-grade CRM platforms**
 - Built workflow automation systems serving **10,000+ users**
 - Implemented **microservices architecture** on AWS
 - Engineered complex **TCAS** (Thai University Central Admission System)
 
-### ☁️ Cloud Engineering
+</details>
+
+<details open>
+<summary><b>☁️ Cloud Engineering</b></summary>
 
 - Architected **cloud-native solutions** on AWS & GCP
 - Reduced infrastructure costs by **40%** through optimization
 - Achieved **99.9% uptime** for production systems
 
-### 🤖 AI/ML Integration
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML Integration</b></summary>
 
 - Developed **GPT-3.5 powered** conversational chatbots
 - Integrated AI-driven SEO and analytics platforms
 - Built custom **OpenAI solutions** for automation at Adaptivity
 
-### 💼 Enterprise Solutions
+</details>
+
+<details open>
+<summary><b>💼 Enterprise Solutions</b></summary>
 
 - Delivered **20+ projects** across fintech, SaaS, and real estate
 - Custom WordPress & Shopify plugins for **Fortune 500 clients**
 - SaaS integrations: Cal.com, Chatwoot, Outline, and more
 
-### 🛒 E-Commerce Excellence
+</details>
+
+<details open>
+<summary><b>🛒 E-Commerce Excellence</b></summary>
 
 - Led Shopify Headless development at Marion's Kitchen (**~40% sales boost**)
 - Built **Klaviyo marketing integrations** for advanced personalization
 - Developed Scholl Thailand with complex API integrations
+
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Featured Projects Section - Clean Card Layout -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Featured Projects
 
-### 🏠 [Amazing Properties](https://amazingproperties.org/)
-**Full Stack Headless Application with Algolia AI**
+> ### 🏠 [Amazing Properties](https://amazingproperties.org/)
+> **Full Stack Headless Application with Algolia AI**
+> 
+> `React` `Next.js` `Node.js` `GraphQL` `WordPress`
+> 
+> 📋 **Role:** Team Lead @ Trienpont
 
-| Role | Tech Stack |
-|------|------------|
-| Team Lead @ Trienpont | React, Next.js, Node.js, GraphQL, WordPress |
+> ### 🍳 [Marion's Kitchen](https://marions.co.th/)
+> **Shopify Headless e-commerce with ~40% sales boost**
+> 
+> `Remix` `Node.js` `TypeScript` `Rust` `Shopify Plus`
+> 
+> 📋 **Role:** Senior Developer
 
----
+> ### 👟 [Scholl Thailand](https://schollshoesthailand.com/)
+> **Shopify Plus with complex API integrations**
+> 
+> `Shopify Plus` `Python` `PHP` `Ruby` `CRM`
+> 
+> 📋 **Role:** Full Stack Developer
 
-### 🍳 [Marion's Kitchen](https://marions.co.th/)
-**Shopify Headless e-commerce with ~40% sales boost**
+> ### 🏢 [Relevant Audience](https://www.relevantaudience.com/)
+> **Company brand website with modern UI/UX**
+> 
+> `WordPress` `PHP` `AlpineJS` `Tailwind CSS`
+> 
+> 📋 **Role:** Full Stack Developer
 
-| Role | Tech Stack |
-|------|------------|
-| Senior Developer | Remix, Node.js, TypeScript, Rust, Shopify Plus |
+> ### 🌿 [Aroma Thailand](https://aromathailand.com/)
+> **Brand website + HR system**
+> 
+> `WordPress` `React` `Node.js` `MongoDB`
+> 
+> 📋 **Role:** Full Stack Developer
 
----
+> ### ☕ [Chao Doi](https://chaodoi.co.th/)
+> **Headless WordPress with API integrations**
+> 
+> `WordPress` `Headless CMS` `CRM`
+> 
+> 📋 **Role:** Full Stack Developer
 
-### 👟 [Scholl Thailand](https://schollshoesthailand.com/)
-**Shopify Plus with complex API integrations**
-
-| Role | Tech Stack |
-|------|------------|
-| Full Stack Developer | Shopify Plus, Python, PHP, Ruby, CRM |
-
----
-
-### 🏢 [Relevant Audience](https://www.relevantaudience.com/)
-**Company brand website with modern UI/UX**
-
-| Role | Tech Stack |
-|------|------------|
-| Full Stack Developer | WordPress, PHP, AlpineJS, Tailwind CSS |
-
----
-
-### 🌿 [Aroma Thailand](https://aromathailand.com/)
-**Brand website + HR system**
-
-| Role | Tech Stack |
-|------|------------|
-| Full Stack Developer | WordPress, React, Node.js, MongoDB |
-
----
-
-### ☕ [Chao Doi](https://chaodoi.co.th/)
-**Headless WordPress with API integrations**
-
-| Role | Tech Stack |
-|------|------------|
-| Full Stack Developer | WordPress, Headless CMS, CRM |
-
----
-
-### 🧸 [Plantoys Thailand](https://th.plantoys.com/)
-**Shopify e-commerce with CRM integration**
-
-| Role | Tech Stack |
-|------|------------|
-| Full Stack Developer | Shopify, API Integration, Payment Gateway |
+> ### 🧸 [Plantoys Thailand](https://th.plantoys.com/)
+> **Shopify e-commerce with CRM integration**
+> 
+> `Shopify` `API Integration` `Payment Gateway`
+> 
+> 📋 **Role:** Full Stack Developer
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -254,7 +257,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <!-- Latest Blog Posts - Left Aligned -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Latest Blog Posts 📝
 
-*Auto-updated via GitHub Actions*
+> 📰 *Auto-updated via GitHub Actions*
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
@@ -269,8 +272,10 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 - [First Principles Thinking: A Software Engineer's Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 <!-- BLOG-POST-LIST:END -->
 
-[![Read More](https://img.shields.io/badge/Read_More-3B3B3B?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/tahmidbintaslimrafi)
-[![Medium Blog](https://img.shields.io/badge/Medium_Blog-242424?style=for-the-badge&logo=medium&logoColor=white)](https://tahmidbintaslimrafi.medium.com/)
+<p>
+  <a href="https://dev.to/tahmidbintaslimrafi"><img src="https://img.shields.io/badge/Read_More_on_Dev.to-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Read More"/></a>
+  <a href="https://tahmidbintaslimrafi.medium.com/"><img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Blog"/></a>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

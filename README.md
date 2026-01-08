@@ -125,10 +125,10 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 | 🏠 **[Amazing Properties](https://amazingproperties.org/)** | Full Stack Headless Application with Algolia AI | `React` `Next.js` `Node.js` `GraphQL` | Team Lead @ Trienpont |
 | 🍳 **[Marion's Kitchen](https://marions.co.th/)** | Shopify Headless e-commerce with ~40% sales boost | `Remix` `TypeScript` `Rust` `Shopify Plus` | Senior Developer |
 | 👟 **[Scholl Thailand](https://schollshoesthailand.com/)** | Shopify Plus with complex API integrations | `Shopify Plus` `Python` `PHP` `Ruby` | Full Stack Developer |
-| 🏢 **[Relevant Audience](https://www.relevantaudience.com/)** | Company brand website with modern UI/UX | `WordPress` `PHP` `AlpineJS` `Tailwind` | Full Stack Developer |
+| 🏢 **[Relevant Audience](https://www.relevantaudience.com/)** | Company brand website with modern UI/UX | `WordPress` `PHP` `AlpineJS` `Tailwind CSS` | Full Stack Developer |
 | 🌿 **[Aroma Thailand](https://aromathailand.com/)** | Brand website + HR system | `WordPress` `React` `Node.js` `MongoDB` | Full Stack Developer |
 | ☕ **[Chao Doi](https://chaodoi.co.th/)** | Headless WordPress with API integrations | `WordPress` `Headless CMS` `CRM` | Full Stack Developer |
-| 🧸 **[Plantoys Thailand](https://th.plantoys.com/)** | Shopify e-commerce with CRM integration | `Shopify` `API Integration` `Payment` | Full Stack Developer |
+| 🧸 **[Plantoys Thailand](https://th.plantoys.com/)** | Shopify e-commerce with CRM integration | `Shopify` `API Integration` `Payment Gateway` | Full Stack Developer |
 
 </div>
 

@@ -4,16 +4,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tahmid%20Bin%20Taslim%20Rafi&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=ffffff"/>
 
 <!-- Animated typing effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Senior+Software+Engineer+%7C+4%2B+Years+Experience;Full+Stack+Developer+%7C+Cloud+%26+AI+Specialist;Building+Scalable+SaaS+%26+E-Commerce+Solutions;TypeScript+%7C+Python+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Senior+Software+Engineer+%7C+6%2B+Years+Experience;Full+Stack+Developer+%7C+Cloud+%26+AI+Specialist;Building+Scalable+SaaS+%26+E-Commerce+Solutions;TypeScript+%7C+Python+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></a>
 
 <!-- Social badges with custom styling -->
 <p align="center">
-  <a href="https://tahmid-github-io.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://tahmid.space"><img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
   <a href="https://iglu.net/talent/senior-software-developer/"><img src="https://img.shields.io/badge/💼_Hire_Me-8B5CF6?style=for-the-badge&logoColor=white" alt="Hire Me"/></a>
   <a href="https://www.linkedin.com/in/tahmid-bin-taslim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://tahmidbintaslimrafi.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dev.to/tahmidbintaslimrafi"><img src="https://img.shields.io/badge/Dev.to-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://twitter.com/RAFI_it100"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/RAFI_it100"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="mailto:tahmidbintaslimrafi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
@@ -31,7 +31,7 @@
 <!-- About Me Section - Modern Card Layout -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/> About Me
 
-I'm a **Senior Software Engineer** with **4+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
+I'm a **Senior Software Engineer** with **6+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
 
 ### 🎯 Quick Overview
 
@@ -44,7 +44,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 ### 📊 Key Metrics
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
   <img src="https://img.shields.io/badge/Projects-20%2B_Enterprise-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Projects"/>
   <img src="https://img.shields.io/badge/Technologies-50%2B_Mastered-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Technologies"/>
   <img src="https://img.shields.io/badge/Uptime-99.9%25-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Uptime"/>
@@ -118,54 +118,19 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <!-- Featured Projects Section - Clean Card Layout -->
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Featured Projects
 
-> ### 🏠 [Amazing Properties](https://amazingproperties.org/)
-> **Full Stack Headless Application with Algolia AI**
-> 
-> `React` `Next.js` `Node.js` `GraphQL` `WordPress`
-> 
-> 📋 **Role:** Team Lead @ Trienpont
+<div align="center">
 
-> ### 🍳 [Marion's Kitchen](https://marions.co.th/)
-> **Shopify Headless e-commerce with ~40% sales boost**
-> 
-> `Remix` `Node.js` `TypeScript` `Rust` `Shopify Plus`
-> 
-> 📋 **Role:** Senior Developer
+| Project | Description | Tech Stack | Role |
+|:--------|:------------|:-----------|:-----|
+| 🏠 **[Amazing Properties](https://amazingproperties.org/)** | Full Stack Headless Application with Algolia AI | `React` `Next.js` `Node.js` `GraphQL` | Team Lead @ Trienpont |
+| 🍳 **[Marion's Kitchen](https://marions.co.th/)** | Shopify Headless e-commerce with ~40% sales boost | `Remix` `TypeScript` `Rust` `Shopify Plus` | Senior Developer |
+| 👟 **[Scholl Thailand](https://schollshoesthailand.com/)** | Shopify Plus with complex API integrations | `Shopify Plus` `Python` `PHP` `Ruby` | Full Stack Developer |
+| 🏢 **[Relevant Audience](https://www.relevantaudience.com/)** | Company brand website with modern UI/UX | `WordPress` `PHP` `AlpineJS` `Tailwind` | Full Stack Developer |
+| 🌿 **[Aroma Thailand](https://aromathailand.com/)** | Brand website + HR system | `WordPress` `React` `Node.js` `MongoDB` | Full Stack Developer |
+| ☕ **[Chao Doi](https://chaodoi.co.th/)** | Headless WordPress with API integrations | `WordPress` `Headless CMS` `CRM` | Full Stack Developer |
+| 🧸 **[Plantoys Thailand](https://th.plantoys.com/)** | Shopify e-commerce with CRM integration | `Shopify` `API Integration` `Payment` | Full Stack Developer |
 
-> ### 👟 [Scholl Thailand](https://schollshoesthailand.com/)
-> **Shopify Plus with complex API integrations**
-> 
-> `Shopify Plus` `Python` `PHP` `Ruby` `CRM`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🏢 [Relevant Audience](https://www.relevantaudience.com/)
-> **Company brand website with modern UI/UX**
-> 
-> `WordPress` `PHP` `AlpineJS` `Tailwind CSS`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🌿 [Aroma Thailand](https://aromathailand.com/)
-> **Brand website + HR system**
-> 
-> `WordPress` `React` `Node.js` `MongoDB`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### ☕ [Chao Doi](https://chaodoi.co.th/)
-> **Headless WordPress with API integrations**
-> 
-> `WordPress` `Headless CMS` `CRM`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🧸 [Plantoys Thailand](https://th.plantoys.com/)
-> **Shopify e-commerce with CRM integration**
-> 
-> `Shopify` `API Integration` `Payment Gateway`
-> 
-> 📋 **Role:** Full Stack Developer
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -175,49 +140,49 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 ### 💻 Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark&perline=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&perline=7" alt="Languages" />
 </picture>
 
 ### 🎨 Frontend & Frameworks
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass" alt="Frontend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&perline=8" alt="Frontend" />
 </picture>
 
 ### ⚙️ Backend & APIs
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql" alt="Backend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&perline=8" alt="Backend" />
 </picture>
 
 ### 🗄️ Databases & Caching
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma" alt="Databases" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark&perline=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&perline=7" alt="Databases" />
 </picture>
 
 ### ☁️ Cloud & DevOps
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions" alt="Cloud & DevOps" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&perline=8" alt="Cloud & DevOps" />
 </picture>
 
 ### 🤖 AI/ML & Data Science
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" alt="AI/ML" />
 </picture>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -229,9 +194,9 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 ### 🛠️ Tools & Platforms
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows" alt="Tools" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&perline=8" alt="Tools" />
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">

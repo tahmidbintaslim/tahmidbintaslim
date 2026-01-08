@@ -1,56 +1,52 @@
-<div align="center">
-
 <!-- Hero Section with Animated Typing -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tahmid%20Bin%20Taslim%20Rafi&fontSize=42&fontAlignY=32&animation=twinkling&fontColor=ffffff"/>
 
 <!-- Animated typing effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Senior+Software+Engineer+%7C+4%2B+Years+Experience;Full+Stack+Developer+%7C+Cloud+%26+AI+Specialist;Building+Scalable+SaaS+%26+E-Commerce+Solutions;TypeScript+%7C+Python+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&multiline=false&width=800&lines=Senior+Software+Engineer+%7C+6%2B+Years+Experience;Full+Stack+Developer+%7C+Cloud+%26+AI+Specialist;Building+Scalable+SaaS+%26+E-Commerce+Solutions;TypeScript+%7C+Python+%7C+React+%7C+Next.js+%7C+Node.js" alt="Typing SVG" /></a>
 
 <!-- Social badges with custom styling -->
-<p align="center">
-  <a href="https://tahmid-github-io.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4A90E2?style=for-the-badge&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://iglu.net/talent/senior-software-developer/"><img src="https://img.shields.io/badge/💼_Hire_Me-8B5CF6?style=for-the-badge&logoColor=white" alt="Hire Me"/></a>
+<p>
+  <a href="https://tahmid.space"><img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://iglu.net/talent/senior-software-developer/"><img src="https://img.shields.io/badge/Hire_Me-8B5CF6?style=for-the-badge&logo=handshake&logoColor=white" alt="Hire Me"/></a>
   <a href="https://www.linkedin.com/in/tahmid-bin-taslim/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://tahmidbintaslimrafi.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://dev.to/tahmidbintaslimrafi"><img src="https://img.shields.io/badge/Dev.to-0A66C2?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
-  <a href="https://twitter.com/RAFI_it100"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://x.com/RAFI_it100"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
   <a href="mailto:tahmidbintaslimrafi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <!-- Profile views with custom styling -->
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=tahmidbintaslim&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/tahmidbintaslim?style=for-the-badge&color=58A6FF&label=Followers" alt="Followers"/>
 </p>
-
-</div>
 
 <!-- Decorative line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- About Me Section - Modern Card Layout -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/> About Me
+## <img src="https://img.shields.io/badge/About-Me-58A6FF?style=flat-square&logo=about.me&logoColor=white" height="28"/> About Me
 
-I'm a **Senior Software Engineer** with **4+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
+I'm a **Senior Software Engineer** with **6+ years** of hands-on experience building modern, scalable, and user-centric applications. Currently at **Marion's Kitchen Group**, driving e-commerce innovation through Shopify Headless development.
 
-### 🎯 Quick Overview
+### <img src="https://img.shields.io/badge/Quick-Overview-58A6FF?style=flat-square" height="20"/> Quick Overview
 
-- 🔭 Currently working on **Shopify Headless Development**
-- 🚀 Specialized in **Full Stack & Cloud Architecture**
-- 🤖 Building **AI-powered automation solutions**
-- 🌍 Based in **Thailand**, working globally
-- ☕ Fun fact: *I turn coffee into code and bugs into features*
+- <img src="https://img.shields.io/badge/-Current_Focus-blue?style=flat-square" height="16"/> Currently working on **Shopify Headless Development**
+- <img src="https://img.shields.io/badge/-Specialization-green?style=flat-square" height="16"/> Specialized in **Full Stack & Cloud Architecture**
+- <img src="https://img.shields.io/badge/-AI_Focus-purple?style=flat-square" height="16"/> Building **AI-powered automation solutions**
+- <img src="https://img.shields.io/badge/-Location-orange?style=flat-square" height="16"/> Based in **Thailand**, working globally
+- <img src="https://img.shields.io/badge/-Fun_Fact-red?style=flat-square" height="16"/> *I turn coffee into code and bugs into features*
 
-### 📊 Key Metrics
+### <img src="https://img.shields.io/badge/Key-Metrics-58A6FF?style=flat-square" height="20"/> Key Metrics
 
 <p>
-  <img src="https://img.shields.io/badge/Experience-4%2B_Years-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Experience-6%2B_Years-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Experience"/>
   <img src="https://img.shields.io/badge/Projects-20%2B_Enterprise-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Projects"/>
   <img src="https://img.shields.io/badge/Technologies-50%2B_Mastered-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Technologies"/>
   <img src="https://img.shields.io/badge/Uptime-99.9%25-58A6FF?style=for-the-badge&labelColor=1a1b27" alt="Uptime"/>
 </p>
 
-### 💻 Core Expertise
+### <img src="https://img.shields.io/badge/Core-Expertise-58A6FF?style=flat-square" height="20"/> Core Expertise
 
 | Domain | Technologies |
 |--------|-------------|
@@ -65,10 +61,10 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Career Highlights - Modern Design -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Career Highlights
+## <img src="https://img.shields.io/badge/Career-Highlights-58A6FF?style=flat-square&logo=briefcase&logoColor=white" height="28"/> Career Highlights
 
 <details open>
-<summary><b>🚀 SaaS & Architecture</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-SaaS_&_Architecture-7C3AED?style=flat-square" height="18"/> SaaS & Architecture</b></summary>
 
 - Designed and deployed **enterprise-grade CRM platforms**
 - Built workflow automation systems serving **10,000+ users**
@@ -78,7 +74,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 </details>
 
 <details open>
-<summary><b>☁️ Cloud Engineering</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-Cloud_Engineering-0EA5E9?style=flat-square" height="18"/> Cloud Engineering</b></summary>
 
 - Architected **cloud-native solutions** on AWS & GCP
 - Reduced infrastructure costs by **40%** through optimization
@@ -87,7 +83,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 </details>
 
 <details open>
-<summary><b>🤖 AI/ML Integration</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-AI/ML_Integration-10B981?style=flat-square" height="18"/> AI/ML Integration</b></summary>
 
 - Developed **GPT-3.5 powered** conversational chatbots
 - Integrated AI-driven SEO and analytics platforms
@@ -96,7 +92,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 </details>
 
 <details open>
-<summary><b>💼 Enterprise Solutions</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-Enterprise_Solutions-F59E0B?style=flat-square" height="18"/> Enterprise Solutions</b></summary>
 
 - Delivered **20+ projects** across fintech, SaaS, and real estate
 - Custom WordPress & Shopify plugins for **Fortune 500 clients**
@@ -105,7 +101,7 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 </details>
 
 <details open>
-<summary><b>🛒 E-Commerce Excellence</b></summary>
+<summary><b><img src="https://img.shields.io/badge/-E--Commerce_Excellence-EC4899?style=flat-square" height="18"/> E-Commerce Excellence</b></summary>
 
 - Led Shopify Headless development at Marion's Kitchen (**~40% sales boost**)
 - Built **Klaviyo marketing integrations** for advanced personalization
@@ -116,131 +112,91 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Featured Projects Section - Clean Card Layout -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Featured Projects
+## <img src="https://img.shields.io/badge/Featured-Projects-58A6FF?style=flat-square&logo=github&logoColor=white" height="28"/> Featured Projects
 
-> ### 🏠 [Amazing Properties](https://amazingproperties.org/)
-> **Full Stack Headless Application with Algolia AI**
-> 
-> `React` `Next.js` `Node.js` `GraphQL` `WordPress`
-> 
-> 📋 **Role:** Team Lead @ Trienpont
-
-> ### 🍳 [Marion's Kitchen](https://marions.co.th/)
-> **Shopify Headless e-commerce with ~40% sales boost**
-> 
-> `Remix` `Node.js` `TypeScript` `Rust` `Shopify Plus`
-> 
-> 📋 **Role:** Senior Developer
-
-> ### 👟 [Scholl Thailand](https://schollshoesthailand.com/)
-> **Shopify Plus with complex API integrations**
-> 
-> `Shopify Plus` `Python` `PHP` `Ruby` `CRM`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🏢 [Relevant Audience](https://www.relevantaudience.com/)
-> **Company brand website with modern UI/UX**
-> 
-> `WordPress` `PHP` `AlpineJS` `Tailwind CSS`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🌿 [Aroma Thailand](https://aromathailand.com/)
-> **Brand website + HR system**
-> 
-> `WordPress` `React` `Node.js` `MongoDB`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### ☕ [Chao Doi](https://chaodoi.co.th/)
-> **Headless WordPress with API integrations**
-> 
-> `WordPress` `Headless CMS` `CRM`
-> 
-> 📋 **Role:** Full Stack Developer
-
-> ### 🧸 [Plantoys Thailand](https://th.plantoys.com/)
-> **Shopify e-commerce with CRM integration**
-> 
-> `Shopify` `API Integration` `Payment Gateway`
-> 
-> 📋 **Role:** Full Stack Developer
+| Project | Description | Tech Stack | Role |
+|:--------|:------------|:-----------|:-----|
+| **[Amazing Properties](https://amazingproperties.org/)** | Full Stack Headless Application with Algolia AI | `React` `Next.js` `Node.js` `GraphQL` | Team Lead @ Trienpont |
+| **[Marion's Kitchen](https://marions.co.th/)** | Shopify Headless e-commerce with ~40% sales boost | `Remix` `TypeScript` `Rust` `Shopify Plus` | Senior Developer |
+| **[Scholl Thailand](https://schollshoesthailand.com/)** | Shopify Plus with complex API integrations | `Shopify Plus` `Python` `PHP` `Ruby` | Full Stack Developer |
+| **[Relevant Audience](https://www.relevantaudience.com/)** | Company brand website with modern UI/UX | `WordPress` `PHP` `AlpineJS` `Tailwind CSS` | Full Stack Developer |
+| **[Aroma Thailand](https://aromathailand.com/)** | Brand website + HR system | `WordPress` `React` `Node.js` `MongoDB` | Full Stack Developer |
+| **[Chao Doi](https://chaodoi.co.th/)** | Headless WordPress with API integrations | `WordPress` `Headless CMS` `CRM` | Full Stack Developer |
+| **[Plantoys Thailand](https://th.plantoys.com/)** | Shopify e-commerce with CRM integration | `Shopify` `API Integration` `Payment Gateway` | Full Stack Developer |
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Tech Stack with visual organization -->
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"/> Tech Stack & Expertise
+## <img src="https://img.shields.io/badge/Tech_Stack-&_Expertise-58A6FF?style=flat-square&logo=stackshare&logoColor=white" height="28"/> Tech Stack & Expertise
 
-### 💻 Languages
+### <img src="https://img.shields.io/badge/Languages-58A6FF?style=flat-square&logo=code&logoColor=white" height="20"/> Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby" alt="Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark&perline=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&perline=7" alt="Languages" />
 </picture>
 
-### 🎨 Frontend & Frameworks
+### <img src="https://img.shields.io/badge/Frontend-&_Frameworks-61DAFB?style=flat-square&logo=react&logoColor=white" height="20"/> Frontend & Frameworks
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass" alt="Frontend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&perline=8" alt="Frontend" />
 </picture>
 
-### ⚙️ Backend & APIs
+### <img src="https://img.shields.io/badge/Backend-&_APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/> Backend & APIs
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql" alt="Backend" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&perline=8" alt="Backend" />
 </picture>
 
-### 🗄️ Databases & Caching
+### <img src="https://img.shields.io/badge/Databases-&_Caching-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/> Databases & Caching
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma" alt="Databases" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark&perline=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light&perline=7" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&perline=7" alt="Databases" />
 </picture>
 
-### ☁️ Cloud & DevOps
+### <img src="https://img.shields.io/badge/Cloud-&_DevOps-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="20"/> Cloud & DevOps
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions" alt="Cloud & DevOps" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&perline=8" alt="Cloud & DevOps" />
 </picture>
 
-### 🤖 AI/ML & Data Science
+### <img src="https://img.shields.io/badge/AI/ML-&_Data_Science-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/> AI/ML & Data Science
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" alt="AI/ML" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light&perline=4" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" alt="AI/ML" />
 </picture>
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛒 E-Commerce & CMS
+### <img src="https://img.shields.io/badge/E--Commerce-&_CMS-7AB55C?style=flat-square&logo=shopify&logoColor=white" height="20"/> E-Commerce & CMS
 
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Klaviyo](https://img.shields.io/badge/Klaviyo-232F3E?style=for-the-badge&logo=klaviyo&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
 
-### 🛠️ Tools & Platforms
+### <img src="https://img.shields.io/badge/Tools-&_Platforms-333333?style=flat-square&logo=github&logoColor=white" height="20"/> Tools & Platforms
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows" alt="Tools" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark&perline=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light&perline=8" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&perline=8" alt="Tools" />
 </picture>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- GitHub Stats -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> GitHub Analytics
+## <img src="https://img.shields.io/badge/GitHub-Analytics-58A6FF?style=flat-square&logo=github&logoColor=white" height="28"/> GitHub Analytics
 
-<div align="center">
-  
+<p>
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tahmidbintaslim&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 
@@ -250,14 +206,14 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 
 <img src="https://github-profile-trophy.vercel.app/?username=tahmidbintaslim&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
 
-</div>
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Latest Blog Posts - Left Aligned -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Latest Blog Posts 📝
+## <img src="https://img.shields.io/badge/Latest-Blog_Posts-58A6FF?style=flat-square&logo=hashnode&logoColor=white" height="28"/> Latest Blog Posts
 
-> 📰 *Auto-updated via GitHub Actions*
+> <img src="https://img.shields.io/badge/Auto--updated-via_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="16"/>
 
 <!-- BLOG-POST-LIST:START -->
 - [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
@@ -280,13 +236,13 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Community & DevCard Section -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px" height="28px"/> Community Presence
+## <img src="https://img.shields.io/badge/Community-Presence-58A6FF?style=flat-square&logo=discord&logoColor=white" height="28"/> Community Presence
 
-### 📊 Daily Dev Card
+### <img src="https://img.shields.io/badge/Daily-Dev_Card-CE3DF3?style=flat-square&logo=dailydotdev&logoColor=white" height="20"/> Daily Dev Card
 
 [![Daily.dev Developer Card](https://api.daily.dev/devcards/v2/VmNuhqLnqI2yFHNLZfsr7.png?r=nnv&type=wide)](https://app.daily.dev/tahmidbintaslim)
 
-### 🌐 Connect With Me
+### <img src="https://img.shields.io/badge/Connect-With_Me-58A6FF?style=flat-square&logo=linktree&logoColor=white" height="20"/> Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tahmidbintaslim/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@theasmrcoding)
@@ -298,23 +254,15 @@ I'm a **Senior Software Engineer** with **4+ years** of hands-on experience buil
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Dev Quote Section -->
-## 💭 Dev Quote of the Day
-
-<div align="center">
+## <img src="https://img.shields.io/badge/Dev_Quote-of_the_Day-58A6FF?style=flat-square&logo=quotefancy&logoColor=white" height="28"/> Dev Quote of the Day
 
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 <!-- Footer with wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-<div align="center">
-  
-### 🙏 Thanks for visiting!
+### <img src="https://img.shields.io/badge/Thanks-for_visiting!-58A6FF?style=flat-square&logo=github&logoColor=white" height="20"/> Thanks for visiting!
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Let's+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities!;Don't+just+fork%2C+give+me+a+star+%E2%AD%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Let's+connect+and+build+something+amazing+together!;Open+to+collaborations+and+new+opportunities!;Don't+just+fork%2C+give+me+a+star!" alt="Typing SVG" />
 
-**[⬆ Back to Top](#)**
-
-</div>
+**[Back to Top](#)**

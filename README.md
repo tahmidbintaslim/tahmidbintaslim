@@ -219,7 +219,7 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 
 ![Prisma](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
 ![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=D71F00)
-![Selenium](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A)
+![Selenium](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4EAA25)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 
@@ -233,7 +233,7 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 ![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D4)
 ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=000000)
-![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![VS Code](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=000000)
 
 </div>

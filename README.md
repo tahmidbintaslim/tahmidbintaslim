@@ -130,75 +130,114 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 <!-- Tech Stack with visual organization -->
 ## <img src="https://img.shields.io/badge/Tech_Stack-&_Expertise-58A6FF?style=flat-square&logo=stackshare&logoColor=white" height="28"/> Tech Stack & Expertise
 
-### <img src="https://img.shields.io/badge/Languages-58A6FF?style=flat-square&logo=code&logoColor=white" height="20"/> Languages
+<details open>
+<summary><h3>💻 Programming Languages</h3></summary>
+<div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=dark&perline=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&theme=light&perline=7" />
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,rust,go,ruby&perline=7" alt="Languages" />
-</picture>
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=777BB4)
+![Rust](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=000000)
+![Go](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8)
+![Ruby](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=ruby&logoColor=white&color=CC342D)
 
-### <img src="https://img.shields.io/badge/Frontend-&_Frameworks-61DAFB?style=flat-square&logo=react&logoColor=white" height="20"/> Frontend & Frameworks
+</div>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&theme=light&perline=8" />
-  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,remix,svelte,tailwind,sass&perline=8" alt="Frontend" />
-</picture>
+<details open>
+<summary><h3>🛠️ Frameworks</h3></summary>
+<div>
 
-### <img src="https://img.shields.io/badge/Backend-&_APIs-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="20"/> Backend & APIs
+![Vue](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vuedotjs&logoColor=white&color=4FC08D)
+![React](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB)
+![Next.js](https://img.shields.io/badge/Framework-Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=61DAFB)
+![Remix](https://img.shields.io/badge/Framework-Remix-informational?style=flat&logo=remix&logoColor=white&color=000000)
+![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20)
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=DD0031)
+![Ruby on Rails](https://img.shields.io/badge/Framework-Rails-informational?style=flat&logo=rubyonrails&logoColor=white&color=CC0000)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&theme=light&perline=8" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,rails,graphql&perline=8" alt="Backend" />
-</picture>
+</div>
+</details>
 
-### <img src="https://img.shields.io/badge/Databases-&_Caching-4169E1?style=flat-square&logo=postgresql&logoColor=white" height="20"/> Databases & Caching
+<details open>
+<summary><h3>🔗 Web3</h3></summary>
+<div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=dark&perline=7" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&theme=light&perline=7" />
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase,firebase,prisma&perline=7" alt="Databases" />
-</picture>
+![Solidity](https://img.shields.io/badge/Web3-Solidity-informational?style=flat&logo=solidity&logoColor=white&color=363636)
+![Web3.js](https://img.shields.io/badge/Web3-Web3js-informational?style=flat&logo=web3dotjs&logoColor=white&color=F16822)
+![Ethereum](https://img.shields.io/badge/Web3-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3C3C3D)
 
-### <img src="https://img.shields.io/badge/Cloud-&_DevOps-FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="20"/> Cloud & DevOps
+</div>
+</details>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&theme=light&perline=8" />
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions&perline=8" alt="Cloud & DevOps" />
-</picture>
+<details open>
+<summary><h3>🗄️ Databases</h3></summary>
+<div>
 
-### <img src="https://img.shields.io/badge/Web3-&_Blockchain-363636?style=flat-square&logo=ethereum&logoColor=white" height="20"/> Web3 & Blockchain
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=4479A1)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
+![Redis](https://img.shields.io/badge/Database-Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D)
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white) ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+</div>
+</details>
 
-### <img src="https://img.shields.io/badge/AI/ML-&_Data_Science-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="20"/> AI/ML & Data Science
+<details open>
+<summary><h3>📊 Data Science</h3></summary>
+<div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=light&perline=4" />
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&perline=4" alt="AI/ML" />
-</picture>
+![Jupyter](https://img.shields.io/badge/DS-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![NumPy](https://img.shields.io/badge/DS-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
+![Pandas](https://img.shields.io/badge/DS-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=150458)
+![TensorFlow](https://img.shields.io/badge/DS-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=FF6F00)
+![PyTorch](https://img.shields.io/badge/DS-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=EE4C2C)
+![Keras](https://img.shields.io/badge/DS-Keras-informational?style=flat&logo=keras&logoColor=white&color=D00000)
+![Scikit-Learn](https://img.shields.io/badge/DS-ScikitLearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=F7931E)
+![Plotly](https://img.shields.io/badge/DS-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=3F4F75)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
+</details>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<details open>
+<summary><h3>☁️ DevOps & Cloud</h3></summary>
+<div>
 
-### <img src="https://img.shields.io/badge/E--Commerce-&_CMS-7AB55C?style=flat-square&logo=shopify&logoColor=white" height="20"/> E-Commerce & CMS
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=232F3E)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=4285F4)
+![Firebase](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=FFCA28)
+![Supabase](https://img.shields.io/badge/Cloud-Supabase-informational?style=flat&logo=supabase&logoColor=white&color=3FCF8E)
 
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Klaviyo](https://img.shields.io/badge/Klaviyo-232F3E?style=for-the-badge&logo=klaviyo&logoColor=white) ![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+</div>
+</details>
 
-### <img src="https://img.shields.io/badge/Tools-&_Platforms-333333?style=flat-square&logo=github&logoColor=white" height="20"/> Tools & Platforms
+<details open>
+<summary><h3>🧰 Tools & ORM</h3></summary>
+<div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=dark&perline=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&theme=light&perline=8" />
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,postman,linux,windows&perline=8" alt="Tools" />
-</picture>
+![Prisma](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&logo=prisma&logoColor=white&color=2D3748)
+![SQLAlchemy](https://img.shields.io/badge/ORM-SQLAlchemy-informational?style=flat&logo=sqlalchemy&logoColor=white&color=D71F00)
+![Selenium](https://img.shields.io/badge/Test-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=4EAA25)
+![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
 
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+</div>
+</details>
+
+<details open>
+<summary><h3>🖥️ OS & Editors</h3></summary>
+<div>
+
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D4)
+![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=000000)
+![VS Code](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
+![IntelliJ](https://img.shields.io/badge/Editor-IntelliJ-informational?style=flat&logo=intellijidea&logoColor=white&color=000000)
+
+</div>
+</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 

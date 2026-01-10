@@ -264,6 +264,7 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 > <img src="https://img.shields.io/badge/Auto--updated-via_GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" height="16"/>
 
 <!-- BLOG-POST-LIST:START -->
+- [AI vs Tailwind](https://medium.com/@tahmidbintaslimrafi/ai-vs-tailwind-dd4646d6f2d6?source=rss-bfc1983307a7------2)
 - [Agentic UI &lpar;A2UI + AG-UI&rpar; — Build UIs Your Agent Can Update in Real Time](https://dev.to/tahmidbintaslim/agentic-ui-a2ui-ag-ui-build-uis-your-agent-can-update-in-real-time-274n)
 - [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
 - [Next.js vs TanStack in 2025: A Practical Comparison](https://dev.to/tahmidbintaslim/nextjs-vs-tanstack-in-2025-a-practical-comparison-1991)
@@ -278,7 +279,6 @@ I'm a **Senior Software Engineer** with **6+ years** of hands-on experience buil
 - [Agentic Workflows: How AI Agents Are Making Automation Smarter and More Adaptive](https://medium.com/@tahmidbintaslimrafi/agentic-workflows-how-ai-agents-are-making-automation-smarter-and-more-adaptive-f185309ddcb9?source=rss-bfc1983307a7------2)
 - [How Emojis Work Under the Hood](https://medium.com/@tahmidbintaslimrafi/how-emojis-work-under-the-hood-cdb0d08f3e4b?source=rss-bfc1983307a7------2)
 - [First Principles Thinking: A Software Engineer’s Guide to Building Smarter](https://medium.com/@tahmidbintaslimrafi/first-principles-thinking-a-software-engineers-guide-to-building-smarter-7408236753f5?source=rss-bfc1983307a7------2)
-- [First Principles Thinking: A Software Engineer&#39;s Guide to Building Smarter](https://dev.to/tahmidbintaslim/first-principles-thinking-a-software-engineers-guide-to-building-smarter-1c0g)
 <!-- BLOG-POST-LIST:END -->
 
 <p>

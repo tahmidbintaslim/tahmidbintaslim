@@ -144,13 +144,13 @@
   <text class="mono" x="466" y="628">Product → Platform → Infrastructure</text>
 
   <line class="rule" x1="462" y1="724" x2="822" y2="724" />
-  <rect class="icon" x="462" y="696" width="16" height="20" rx="2" />
-  <line class="icon" x1="466" y1="703" x2="474" y2="703" />
-  <line class="icon" x1="466" y1="709" x2="474" y2="709" />
-  <path class="icon" d="M475 712 l9 -9 l5 5 l-9 9 l-7 2 z" />
-  <text class="title" x="502" y="710">Writing</text>
+  <rect class="icon" x="462" y="695" width="16" height="20" rx="2" />
+  <line class="icon" x1="466" y1="702" x2="474" y2="702" />
+  <line class="icon" x1="466" y1="708" x2="474" y2="708" />
+  <path class="icon" d="M475 711 l9 -9 l5 5 l-9 9 l-7 2 z" />
+  <text class="title" x="502" y="709">Writing</text>
   <rect class="sub" x="726" y="690" width="98" height="30" rx="6" />
-  <text class="chip" x="745" y="709">10k+ reads</text>
+  <text class="chip" x="775" y="705" text-anchor="middle" dominant-baseline="middle">10k+ reads</text>
 
   <text class="body" x="462" y="756">Agentic UI and real-time agents</text>
   <text class="body" x="462" y="782">First-principles engineering</text>

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 1424" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 1560" role="img" aria-labelledby="title desc">
   <title id="title">Rafi Profile Bento Mobile</title>
-  <desc id="desc">Mobile bento profile with strong typography, semantic icons, and clear spacing.</desc>
+  <desc id="desc">Mobile bento profile with improved spacing, alignment, and visual hierarchy.</desc>
 
   <defs>
     <linearGradient id="bgm" x1="0" y1="0" x2="0" y2="1">
@@ -20,193 +20,196 @@
       .n2 { fill: #ec7a2b; }
 
       .hero {
-        font: 800 19.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 800 20.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #171b22;
       }
       .subtitle {
-        font: 700 9.6px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 700 10.8px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #1f2430;
       }
       .lead {
-        font: 500 8.4px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 500 9.2px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #333948;
       }
       .title {
-        font: 740 11px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 740 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #1a1f29;
         letter-spacing: 0.2px;
       }
       .body {
-        font: 500 8.8px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 500 10px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #262d39;
       }
       .body-sm {
-        font: 500 7.9px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        font: 500 9px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
         fill: #313744;
       }
       .mono {
-        font: 600 8.3px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font: 600 9.4px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         fill: #2f3543;
       }
       .mono-strong {
-        font: 700 9.8px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font: 700 11.2px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         fill: #1d2430;
       }
       .chip {
-        font: 700 7.2px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        font: 700 8px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
         fill: #232a35;
       }
     </style>
   </defs>
 
-  <rect class="bg" x="0" y="0" width="390" height="1424" />
+  <rect class="bg" x="0" y="0" width="390" height="1560" />
 
-  <rect class="card" x="12" y="12" width="366" height="124" rx="8" />
-  <rect class="card" x="12" y="146" width="366" height="130" rx="8" />
-  <rect class="card" x="12" y="288" width="366" height="96" rx="8" />
-  <rect class="card" x="12" y="396" width="366" height="136" rx="8" />
-  <rect class="card" x="12" y="544" width="366" height="232" rx="8" />
-  <rect class="card" x="12" y="788" width="366" height="138" rx="8" />
-  <rect class="card" x="12" y="938" width="366" height="206" rx="8" />
-  <rect class="card" x="12" y="1156" width="366" height="256" rx="8" />
+  <rect class="card" x="12" y="12" width="366" height="136" rx="8" />
+  <rect class="card" x="12" y="160" width="366" height="146" rx="8" />
+  <rect class="card" x="12" y="318" width="366" height="104" rx="8" />
+  <rect class="card" x="12" y="434" width="366" height="158" rx="8" />
+  <rect class="card" x="12" y="604" width="366" height="252" rx="8" />
+  <rect class="card" x="12" y="868" width="366" height="146" rx="8" />
+  <rect class="card" x="12" y="1026" width="366" height="224" rx="8" />
+  <rect class="card" x="12" y="1262" width="366" height="286" rx="8" />
 
-  <text class="hero" x="24" y="40">Rafi</text>
-  <text class="subtitle" x="24" y="58">Senior Software Engineer</text>
-  <text class="subtitle" x="24" y="72">Cloud-native &amp; AI Architect</text>
-  <text class="lead" x="24" y="92">I build scalable products where SaaS architecture,</text>
-  <text class="lead" x="24" y="104">headless commerce, and AI meet.</text>
+  <text class="hero" x="24" y="42">Rafi</text>
+  <text class="subtitle" x="24" y="63">Senior Software Engineer</text>
+  <text class="subtitle" x="24" y="78">Cloud-native &amp; AI Architect</text>
+  <text class="lead" x="24" y="102">I build scalable products where SaaS architecture,</text>
+  <text class="lead" x="24" y="116">headless commerce, and AI meet.</text>
 
-  <rect class="sub" x="228" y="24" width="140" height="28" rx="6" />
-  <path class="icon" d="M245 29 c-3 0 -5 2 -5 5 c0 4 5 8 5 8 s5 -4 5 -8 c0 -3 -2 -5 -5 -5 z" />
-  <circle class="node" cx="245" cy="34" r="1.5" />
-  <text class="mono" x="254" y="38" dominant-baseline="middle">Bangkok, Thailand</text>
+  <rect class="sub" x="224" y="24" width="144" height="30" rx="6" />
+  <path class="icon" d="M242 30 c-3 0 -5 2 -5 5 c0 4 5 9 5 9 s5 -5 5 -9 c0 -3 -2 -5 -5 -5 z" />
+  <circle class="node" cx="242" cy="35" r="1.5" />
+  <text class="mono" x="251" y="39" dominant-baseline="middle">Bangkok, Thailand</text>
 
-  <line class="rule" x1="22" y1="176" x2="356" y2="176" />
-  <circle class="icon" cx="26" cy="164" r="2.7" />
-  <path class="icon" d="M22 172 q4 -3.2 8 0" />
-  <text class="title" x="50" y="170">About Me</text>
+  <line class="rule" x1="22" y1="190" x2="356" y2="190" />
+  <circle class="icon" cx="26" cy="177" r="3.2" />
+  <path class="icon" d="M21 187 q5 -4 10 0" />
+  <text class="title" x="50" y="184">About Me</text>
 
-  <text class="body" x="24" y="196">Senior Software Engineer</text>
-  <text class="body" x="24" y="212">Cloud-native and AI Architect · Bangkok, Thailand</text>
-  <text class="body" x="24" y="234">Building scalable systems with clear architecture,</text>
-  <text class="body" x="24" y="248">reliable infrastructure, and measurable outcomes.</text>
+  <text class="body" x="24" y="212">Senior Software Engineer</text>
+  <text class="body" x="24" y="232">Cloud-native and AI Architect</text>
+  <text class="body" x="24" y="252">Bangkok, Thailand</text>
+  <text class="body" x="24" y="274">Building scalable systems with clear architecture,</text>
+  <text class="body" x="24" y="292">reliable infrastructure, and measurable outcomes.</text>
 
-  <line class="rule" x1="22" y1="322" x2="356" y2="322" />
-  <path class="icon" d="M24 316 l5 -6 l-1 4 h4 l-6 6 l1 -4 z" />
-  <text class="mono-strong" x="34" y="316">NOW SHIPPING</text>
-  <path class="icon" d="M338 348 l8 -5 l-2 7 l5 2 l-9 4 z" />
-  <text class="mono" x="34" y="346">Cloud-native application systems</text>
-  <text class="mono" x="34" y="364">AI-powered product workflows</text>
+  <line class="rule" x1="22" y1="350" x2="356" y2="350" />
+  <path class="icon" d="M24 340 l6 -7 l-2 5 h5 l-7 8 l2 -5 z" />
+  <text class="mono-strong" x="36" y="344">NOW SHIPPING</text>
+  <path class="icon" d="M334 374 l10 -6 l-3 8 l6 3 l-11 5 z" />
+  <text class="mono" x="34" y="374">Cloud-native application systems</text>
+  <text class="mono" x="34" y="394">AI-powered product workflows</text>
 
-  <line class="rule" x1="22" y1="426" x2="356" y2="426" />
-  <circle class="icon" cx="36" cy="416" r="4.5" />
-  <circle class="icon" cx="36" cy="416" r="2" />
-  <line class="icon" x1="36" y1="410" x2="36" y2="407" />
-  <line class="icon" x1="36" y1="425" x2="36" y2="422" />
-  <line class="icon" x1="30" y1="416" x2="27" y2="416" />
-  <line class="icon" x1="45" y1="416" x2="42" y2="416" />
-  <text class="mono-strong" x="48" y="420">CORE FOCUS</text>
-  <path class="wire" d="M30 442 v72" />
-  <circle class="node" cx="30" cy="456" r="2" />
-  <circle class="node" cx="30" cy="475" r="2" />
-  <circle class="node" cx="30" cy="494" r="2" />
-  <circle class="node" cx="30" cy="513" r="2" />
-  <text class="mono" x="42" y="459">Performance and reliability</text>
-  <text class="mono" x="42" y="478">Architecture clarity</text>
-  <text class="mono" x="42" y="497">SaaS + headless commerce delivery</text>
-  <text class="mono" x="42" y="516">AI integration for real workflows</text>
+  <line class="rule" x1="22" y1="466" x2="356" y2="466" />
+  <circle class="icon" cx="36" cy="456" r="4.6" />
+  <circle class="icon" cx="36" cy="456" r="2" />
+  <line class="icon" x1="36" y1="450" x2="36" y2="447" />
+  <line class="icon" x1="36" y1="465" x2="36" y2="462" />
+  <line class="icon" x1="30" y1="456" x2="27" y2="456" />
+  <line class="icon" x1="45" y1="456" x2="42" y2="456" />
+  <text class="mono-strong" x="48" y="460">CORE FOCUS</text>
+  <path class="wire" d="M30 486 v88" />
+  <circle class="node" cx="30" cy="506" r="2.1" />
+  <circle class="node" cx="30" cy="523" r="2.1" />
+  <circle class="node" cx="30" cy="540" r="2.1" />
+  <circle class="node" cx="30" cy="557" r="2.1" />
+  <circle class="node" cx="30" cy="574" r="2.1" />
+  <text class="mono" x="42" y="510">Performance and reliability</text>
+  <text class="mono" x="42" y="527">Architecture clarity</text>
+  <text class="mono" x="42" y="544">Measurable product impact</text>
+  <text class="mono" x="42" y="561">SaaS + headless commerce delivery</text>
+  <text class="mono" x="42" y="578">AI integration for real workflows</text>
 
-  <line class="rule" x1="22" y1="574" x2="356" y2="574" />
-  <rect class="icon" x="24" y="562" width="10" height="7" rx="1.6" />
-  <path class="icon" d="M27 562 v-2 h4 v2" />
-  <text class="title" x="50" y="568">Featured Work</text>
+  <line class="rule" x1="22" y1="636" x2="356" y2="636" />
+  <rect class="icon" x="24" y="622" width="10" height="8" rx="1.6" />
+  <path class="icon" d="M27 622 v-3 h4 v3" />
+  <text class="title" x="50" y="630">Featured Work</text>
 
-  <text class="body" x="24" y="594">Shikhbo-AI  · AI chat assistant</text>
-  <text class="body" x="24" y="610">Unicorn-UI  · Accessible React UI library</text>
-  <text class="body" x="24" y="626">Featured Builds · tahmid.space</text>
+  <text class="body" x="24" y="658">Shikhbo-AI  · AI chat assistant</text>
+  <text class="body" x="24" y="678">Unicorn-UI  · Accessible React UI library</text>
+  <text class="body" x="24" y="698">Featured Builds · tahmid.space</text>
 
-  <polygon points="90,670 148,644 244,682 186,708" fill="#eff2f6" stroke="#2a2f38" stroke-width="1.15" />
-  <polygon points="110,716 172,690 258,724 196,750" fill="#f5f7fa" stroke="#2a2f38" stroke-width="1.15" />
-  <path class="wire" d="M148 656 C146 680, 156 690, 178 702 C198 714, 204 730, 202 742" />
-  <circle class="n1" cx="148" cy="656" r="3.1" />
-  <circle class="n2" cx="202" cy="742" r="3.1" />
-  <text class="mono" x="24" y="760">Product → Platform → Infrastructure</text>
+  <polygon points="98,750 156,724 252,762 194,788" fill="#eff2f6" stroke="#2a2f38" stroke-width="1.15" />
+  <polygon points="118,798 180,772 266,806 204,832" fill="#f5f7fa" stroke="#2a2f38" stroke-width="1.15" />
+  <path class="wire" d="M156 736 C154 760, 164 770, 186 782 C206 794, 212 810, 210 822" />
+  <circle class="n1" cx="156" cy="736" r="3.2" />
+  <circle class="n2" cx="210" cy="822" r="3.2" />
+  <text class="mono" x="24" y="844">Product → Platform → Infrastructure</text>
 
-  <line class="rule" x1="22" y1="818" x2="356" y2="818" />
-  <rect class="icon" x="24" y="806" width="8" height="11" rx="1.5" />
-  <line class="icon" x1="26" y1="810" x2="30" y2="810" />
-  <line class="icon" x1="26" y1="813" x2="30" y2="813" />
-  <path class="icon" d="M31 816 l6 -6 l3 3 l-6 6 l-4 1 z" />
-  <text class="title" x="52" y="812">Writing</text>
-  <rect class="sub" x="312" y="798" width="56" height="20" rx="4" />
-  <text class="chip" x="323" y="811">10k+ reads</text>
+  <line class="rule" x1="22" y1="900" x2="356" y2="900" />
+  <rect class="icon" x="24" y="884" width="8" height="12" rx="1.5" />
+  <line class="icon" x1="26" y1="889" x2="30" y2="889" />
+  <line class="icon" x1="26" y1="893" x2="30" y2="893" />
+  <path class="icon" d="M31 895 l6 -6 l3 3 l-6 6 l-4 1 z" />
+  <text class="title" x="52" y="893">Writing</text>
+  <rect class="sub" x="310" y="880" width="58" height="22" rx="4" />
+  <text class="chip" x="339" y="891" text-anchor="middle" dominant-baseline="middle">10k+ reads</text>
 
-  <text class="body" x="24" y="840">Agentic UI and real-time agents</text>
-  <text class="body" x="24" y="856">First-principles engineering</text>
-  <text class="body" x="24" y="872">Next.js architecture</text>
+  <text class="body" x="24" y="928">Agentic UI and real-time agents</text>
+  <text class="body" x="24" y="948">First-principles engineering</text>
+  <text class="body" x="24" y="968">Next.js architecture</text>
 
-  <line class="rule" x1="22" y1="970" x2="356" y2="970" />
-  <rect class="icon" x="24" y="956" width="10" height="10" rx="1.5" />
-  <rect class="icon" x="27" y="959" width="4" height="4" rx="1" />
-  <line class="icon" x1="22" y1="961" x2="24" y2="961" />
-  <line class="icon" x1="34" y1="961" x2="36" y2="961" />
-  <text class="title" x="50" y="962">Tech Stack</text>
-  <text class="body" x="24" y="988">Core tools used in production systems.</text>
+  <line class="rule" x1="22" y1="1058" x2="356" y2="1058" />
+  <rect class="icon" x="24" y="1044" width="10" height="10" rx="1.5" />
+  <rect class="icon" x="27" y="1047" width="4" height="4" rx="1" />
+  <line class="icon" x1="22" y1="1049" x2="24" y2="1049" />
+  <line class="icon" x1="34" y1="1049" x2="36" y2="1049" />
+  <text class="title" x="50" y="1052">Tech Stack</text>
+  <text class="body" x="24" y="1080">Core tools used in production systems.</text>
 
-  <rect class="sub" x="22" y="998" width="346" height="132" rx="6" />
-  <circle class="n1" cx="196" cy="1062" r="3" />
+  <rect class="sub" x="22" y="1092" width="346" height="146" rx="6" />
+  <circle class="n1" cx="196" cy="1166" r="3" />
 
-  <line class="wire" x1="196" y1="1062" x2="112" y2="1030" />
-  <line class="wire" x1="196" y1="1062" x2="164" y2="1030" />
-  <line class="wire" x1="196" y1="1062" x2="216" y2="1030" />
-  <line class="wire" x1="196" y1="1062" x2="262" y2="1030" />
-  <line class="wire" x1="196" y1="1062" x2="310" y2="1030" />
-  <line class="wire" x1="196" y1="1062" x2="117" y2="1090" />
-  <line class="wire" x1="196" y1="1062" x2="169" y2="1090" />
-  <line class="wire" x1="196" y1="1062" x2="221" y2="1090" />
-  <line class="wire" x1="196" y1="1062" x2="282" y2="1090" />
+  <line class="wire" x1="196" y1="1166" x2="112" y2="1130" />
+  <line class="wire" x1="196" y1="1166" x2="164" y2="1130" />
+  <line class="wire" x1="196" y1="1166" x2="216" y2="1130" />
+  <line class="wire" x1="196" y1="1166" x2="262" y2="1130" />
+  <line class="wire" x1="196" y1="1166" x2="310" y2="1130" />
+  <line class="wire" x1="196" y1="1166" x2="117" y2="1190" />
+  <line class="wire" x1="196" y1="1166" x2="169" y2="1190" />
+  <line class="wire" x1="196" y1="1166" x2="221" y2="1190" />
+  <line class="wire" x1="196" y1="1166" x2="282" y2="1190" />
 
-  <rect class="sub" x="92" y="1022" width="40" height="16" rx="4" /><text class="chip" x="108" y="1034">TS</text>
-  <rect class="sub" x="138" y="1022" width="52" height="16" rx="4" /><text class="chip" x="153" y="1034">PY</text>
-  <rect class="sub" x="196" y="1022" width="40" height="16" rx="4" /><text class="chip" x="211" y="1034">GO</text>
-  <rect class="sub" x="242" y="1022" width="40" height="16" rx="4" /><text class="chip" x="253" y="1034">RUST</text>
-  <rect class="sub" x="288" y="1022" width="44" height="16" rx="4" /><text class="chip" x="302" y="1034">AWS</text>
-  <rect class="sub" x="94" y="1082" width="46" height="16" rx="4" /><text class="chip" x="106" y="1094">NODE</text>
-  <rect class="sub" x="146" y="1082" width="46" height="16" rx="4" /><text class="chip" x="160" y="1094">NEXT</text>
-  <rect class="sub" x="198" y="1082" width="46" height="16" rx="4" /><text class="chip" x="212" y="1094">K8S</text>
-  <rect class="sub" x="250" y="1082" width="64" height="16" rx="4" /><text class="chip" x="266" y="1094">DOCKER</text>
+  <rect class="sub" x="92" y="1122" width="40" height="16" rx="4" /><text class="chip" x="108" y="1134">TS</text>
+  <rect class="sub" x="138" y="1122" width="52" height="16" rx="4" /><text class="chip" x="153" y="1134">PY</text>
+  <rect class="sub" x="196" y="1122" width="40" height="16" rx="4" /><text class="chip" x="211" y="1134">GO</text>
+  <rect class="sub" x="242" y="1122" width="40" height="16" rx="4" /><text class="chip" x="253" y="1134">RUST</text>
+  <rect class="sub" x="288" y="1122" width="44" height="16" rx="4" /><text class="chip" x="302" y="1134">AWS</text>
+  <rect class="sub" x="94" y="1182" width="46" height="16" rx="4" /><text class="chip" x="106" y="1194">NODE</text>
+  <rect class="sub" x="146" y="1182" width="46" height="16" rx="4" /><text class="chip" x="160" y="1194">NEXT</text>
+  <rect class="sub" x="198" y="1182" width="46" height="16" rx="4" /><text class="chip" x="212" y="1194">K8S</text>
+  <rect class="sub" x="250" y="1182" width="64" height="16" rx="4" /><text class="chip" x="266" y="1194">DOCKER</text>
 
-  <line class="rule" x1="22" y1="1188" x2="356" y2="1188" />
-  <path class="icon" d="M24 1179 h6 a3 3 0 0 1 0 6 h-6 a3 3 0 0 1 0 -6 z" />
-  <path class="icon" d="M32 1179 h6 a3 3 0 0 1 0 6 h-6 a3 3 0 0 1 0 -6 z" />
-  <text class="title" x="50" y="1182">Connect</text>
+  <line class="rule" x1="22" y1="1294" x2="356" y2="1294" />
+  <path class="icon" d="M24 1284 h6 a3 3 0 0 1 0 6 h-6 a3 3 0 0 1 0 -6 z" />
+  <path class="icon" d="M32 1284 h6 a3 3 0 0 1 0 6 h-6 a3 3 0 0 1 0 -6 z" />
+  <text class="title" x="50" y="1291">Connect</text>
 
-  <path class="wire" d="M32 1206 v98" />
-  <circle class="node" cx="32" cy="1220" r="1.8" />
-  <circle class="node" cx="32" cy="1240" r="1.8" />
-  <circle class="node" cx="32" cy="1260" r="1.8" />
-  <circle class="node" cx="32" cy="1280" r="1.8" />
-  <circle class="node" cx="32" cy="1300" r="1.8" />
+  <path class="wire" d="M32 1318 v112" />
+  <circle class="node" cx="32" cy="1334" r="1.8" />
+  <circle class="node" cx="32" cy="1358" r="1.8" />
+  <circle class="node" cx="32" cy="1382" r="1.8" />
+  <circle class="node" cx="32" cy="1406" r="1.8" />
+  <circle class="node" cx="32" cy="1430" r="1.8" />
 
-  <circle class="icon" cx="24" cy="1220" r="3.8" /><line class="icon" x1="20" y1="1220" x2="28" y2="1220" /><line class="icon" x1="24" y1="1216" x2="24" y2="1224" />
-  <text class="body" x="46" y="1224">Portfolio: tahmid.space</text>
+  <circle class="icon" cx="24" cy="1334" r="3.8" /><line class="icon" x1="20" y1="1334" x2="28" y2="1334" /><line class="icon" x1="24" y1="1330" x2="24" y2="1338" />
+  <text class="body" x="46" y="1338">Portfolio: tahmid.space</text>
 
-  <circle class="node" cx="22" cy="1240" r="1.3" /><circle class="node" cx="28" cy="1235" r="1.3" /><circle class="node" cx="28" cy="1245" r="1.3" />
-  <line class="icon" x1="22" y1="1240" x2="28" y2="1235" /><line class="icon" x1="22" y1="1240" x2="28" y2="1245" />
-  <text class="body" x="46" y="1244">GitHub: @tahmidbintaslim</text>
+  <circle class="node" cx="22" cy="1358" r="1.3" /><circle class="node" cx="28" cy="1353" r="1.3" /><circle class="node" cx="28" cy="1363" r="1.3" />
+  <line class="icon" x1="22" y1="1358" x2="28" y2="1353" /><line class="icon" x1="22" y1="1358" x2="28" y2="1363" />
+  <text class="body" x="46" y="1362">GitHub: @tahmidbintaslim</text>
 
-  <rect class="icon" x="20" y="1252" width="8" height="7" rx="1" /><line class="icon" x1="22" y1="1256" x2="26" y2="1256" />
-  <text class="body" x="46" y="1264">LinkedIn: tahmid-bin-taslim</text>
+  <rect class="icon" x="20" y="1378" width="8" height="8" rx="1" /><line class="icon" x1="22" y1="1382" x2="26" y2="1382" />
+  <text class="body" x="46" y="1386">LinkedIn: tahmid-bin-taslim</text>
 
-  <rect class="icon" x="20" y="1272" width="8" height="7" rx="1" /><line class="icon" x1="22" y1="1275" x2="26" y2="1275" /><line class="icon" x1="22" y1="1277" x2="26" y2="1277" />
-  <text class="body" x="46" y="1284">Dev.to: tahmidbintaslimrafi</text>
+  <rect class="icon" x="20" y="1402" width="8" height="8" rx="1" /><line class="icon" x1="22" y1="1405" x2="26" y2="1405" /><line class="icon" x1="22" y1="1407" x2="26" y2="1407" />
+  <text class="body" x="46" y="1410">Dev.to: tahmidbintaslimrafi</text>
 
-  <rect class="icon" x="20" y="1292" width="9" height="7" rx="1" /><line class="icon" x1="20" y1="1292" x2="24.5" y2="1297" /><line class="icon" x1="24.5" y1="1297" x2="29" y2="1292" />
-  <text class="body-sm" x="46" y="1304">Email: tahmidbintaslimrafi@gmail.com</text>
+  <rect class="icon" x="20" y="1426" width="9" height="8" rx="1" /><line class="icon" x1="20" y1="1426" x2="24.5" y2="1431" /><line class="icon" x1="24.5" y1="1431" x2="29" y2="1426" />
+  <text class="body-sm" x="46" y="1434">Email: tahmidbintaslimrafi@gmail.com</text>
 
-  <text class="body" x="24" y="1328">Open to consulting and collaboration.</text>
+  <text class="body" x="24" y="1452">Open to consulting and collaboration.</text>
 
-  <rect class="sub" x="290" y="1350" width="56" height="30" rx="5" />
-  <path class="icon" d="M322 1334 l30 -24 l22 22 l-24 24 z" />
-  <rect class="sub" x="352" y="1364" width="20" height="12" rx="3" />
+  <rect class="sub" x="286" y="1472" width="56" height="30" rx="5" />
+  <path class="icon" d="M318 1458 l30 -24 l22 22 l-24 24 z" />
+  <rect class="sub" x="348" y="1486" width="24" height="14" rx="3" />
 </svg>

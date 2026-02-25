@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1320 940" role="img" aria-labelledby="title desc">
+  <title id="title">Rafi Profile Bento</title>
+  <desc id="desc">Bento-style profile UI with clear hierarchy, readable typography, and semantic iconography.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f5f6f8" />
+      <stop offset="100%" stop-color="#eceef2" />
+    </linearGradient>
+
+    <style>
+      .bg { fill: url(#bg); }
+      .card { fill: #fbfcfd; stroke: #23262d; stroke-width: 1.2; }
+      .sub { fill: #f4f6f8; stroke: #2b2f37; stroke-width: 1.05; }
+      .rule { stroke: #c1c7d0; stroke-width: 1; }
+      .icon { fill: none; stroke: #252933; stroke-width: 1.65; stroke-linecap: round; stroke-linejoin: round; }
+      .wire { fill: none; stroke: #434b57; stroke-width: 1.35; stroke-linecap: round; stroke-linejoin: round; }
+      .node { fill: #222833; }
+      .n1 { fill: #2f67d8; }
+      .n2 { fill: #ec7a2b; }
+
+      .hero {
+        font: 800 48px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #171b22;
+      }
+      .role {
+        font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #1f2430;
+      }
+      .role2 {
+        font: 700 18px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #1f2430;
+      }
+      .lead {
+        font: 500 13.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #333948;
+      }
+      .title {
+        font: 680 15.5px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #1a1f29;
+        letter-spacing: 0.3px;
+      }
+      .body {
+        font: 500 13.2px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #262d39;
+      }
+      .body-sm {
+        font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, Arial, sans-serif;
+        fill: #313744;
+      }
+      .mono {
+        font: 600 11.8px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        fill: #2f3543;
+      }
+      .mono-strong {
+        font: 700 14.2px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        fill: #1d2430;
+      }
+      .chip {
+        font: 700 10.4px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+        fill: #232a35;
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1320" height="940" />
+
+  <rect class="card" x="20" y="20" width="1280" height="126" rx="10" />
+  <rect class="card" x="20" y="162" width="404" height="220" rx="10" />
+  <rect class="card" x="20" y="396" width="404" height="152" rx="10" />
+  <rect class="card" x="20" y="562" width="404" height="358" rx="10" />
+  <rect class="card" x="440" y="162" width="404" height="492" rx="10" />
+  <rect class="card" x="440" y="670" width="404" height="250" rx="10" />
+  <rect class="card" x="860" y="162" width="440" height="348" rx="10" />
+  <rect class="card" x="860" y="526" width="440" height="394" rx="10" />
+
+  <text class="hero" x="44" y="82">Rafi</text>
+  <text class="role" x="180" y="66">Senior Software Engineer</text>
+  <text class="role2" x="180" y="88">Cloud-native &amp; AI Architect</text>
+  <text class="lead" x="44" y="118">I build scalable products where SaaS architecture, headless commerce, and AI meet.</text>
+
+  <rect class="sub" x="1082" y="46" width="200" height="38" rx="7" />
+  <path class="icon" d="M1112 53 c-4 0 -7 3 -7 7 c0 5 7 11 7 11 s7 -6 7 -11 c0 -4 -3 -7 -7 -7 z" />
+  <circle class="node" cx="1112" cy="60" r="2.2" />
+  <text class="mono" x="1182" y="65" text-anchor="middle" dominant-baseline="middle">Bangkok, Thailand</text>
+
+  <line class="rule" x1="42" y1="218" x2="402" y2="218" />
+  <circle class="icon" cx="58" cy="200" r="6" />
+  <path class="icon" d="M49 213 q9 -8 18 0" />
+  <text class="title" x="82" y="206">About Me</text>
+
+  <text class="body" x="42" y="246">Senior Software Engineer</text>
+  <text class="body" x="42" y="272">Cloud-native and AI Architect</text>
+  <text class="body" x="42" y="298">Bangkok, Thailand</text>
+
+  <text class="body" x="42" y="334">Building scalable products with clear architecture,</text>
+  <text class="body" x="42" y="358">reliable infrastructure, and measurable outcomes.</text>
+
+  <line class="rule" x1="42" y1="438" x2="402" y2="438" />
+  <text class="mono-strong" x="62" y="428">NOW SHIPPING</text>
+  <path class="icon" d="M350 458 l20 -12 l-5 15 l11 4 l-21 10 z" />
+  <text class="mono" x="62" y="468">Cloud-native application systems</text>
+  <text class="mono" x="62" y="494">AI-powered product workflows</text>
+
+  <line class="rule" x1="42" y1="608" x2="402" y2="608" />
+  <circle class="icon" cx="60" cy="591" r="8" />
+  <circle class="icon" cx="60" cy="591" r="3.5" />
+  <line class="icon" x1="60" y1="581" x2="60" y2="577" />
+  <line class="icon" x1="60" y1="605" x2="60" y2="601" />
+  <line class="icon" x1="50" y1="591" x2="46" y2="591" />
+  <line class="icon" x1="74" y1="591" x2="70" y2="591" />
+  <text class="mono-strong" x="80" y="596">CORE FOCUS</text>
+  <path class="wire" d="M58 622 v228" />
+  <circle class="node" cx="58" cy="650" r="3.2" />
+  <circle class="node" cx="58" cy="688" r="3.2" />
+  <circle class="node" cx="58" cy="726" r="3.2" />
+  <circle class="node" cx="58" cy="764" r="3.2" />
+  <circle class="node" cx="58" cy="802" r="3.2" />
+  <circle class="node" cx="58" cy="840" r="3.2" />
+  <text class="mono" x="74" y="655">Performance and reliability</text>
+  <text class="mono" x="74" y="693">Architecture clarity</text>
+  <text class="mono" x="74" y="731">Measurable product impact</text>
+  <text class="mono" x="74" y="769">SaaS + headless commerce delivery</text>
+  <text class="mono" x="74" y="807">AI integration for real workflows</text>
+  <text class="mono" x="74" y="845">Engineering with maintainability</text>
+
+  <line class="rule" x1="462" y1="218" x2="822" y2="218" />
+  <rect class="icon" x="462" y="193" width="20" height="13" rx="2" />
+  <path class="icon" d="M467 193 v-4 h10 v4" />
+  <text class="title" x="498" y="206">Selected Work</text>
+
+  <text class="body" x="462" y="248">Shikhbo-AI  · AI chat assistant</text>
+  <text class="body" x="462" y="278">Unicorn-UI  · Accessible React UI library</text>
+  <text class="body" x="462" y="308">Featured Builds · tahmid.space</text>
+
+  <polygon points="516,392 612,348 748,406 652,448" fill="#eff2f6" stroke="#2a2f38" stroke-width="1.5" />
+  <polygon points="544,470 644,426 760,480 662,522" fill="#f5f7fa" stroke="#2a2f38" stroke-width="1.5" />
+  <polygon points="516,548 616,504 730,556 632,598" fill="#fbfcfd" stroke="#2a2f38" stroke-width="1.5" />
+  <path class="wire" d="M612 368 C604 408, 614 432, 646 452 C678 472, 676 496, 664 514" />
+  <circle class="n1" cx="612" cy="368" r="5.4" />
+  <circle class="n2" cx="664" cy="514" r="5.4" />
+  <circle class="node" cx="606" cy="556" r="5.4" />
+  <text class="mono" x="466" y="628">Product → Platform → Infrastructure</text>
+
+  <line class="rule" x1="462" y1="724" x2="822" y2="724" />
+  <rect class="icon" x="462" y="696" width="16" height="20" rx="2" />
+  <line class="icon" x1="466" y1="703" x2="474" y2="703" />
+  <line class="icon" x1="466" y1="709" x2="474" y2="709" />
+  <path class="icon" d="M481 714 l9 -9 l5 5 l-9 9 l-7 2 z" />
+  <text class="title" x="502" y="710">Writing</text>
+  <rect class="sub" x="726" y="690" width="98" height="30" rx="6" />
+  <text class="chip" x="745" y="709">10k+ reads</text>
+
+  <text class="body" x="462" y="756">Agentic UI and real-time agents</text>
+  <text class="body" x="462" y="782">First-principles engineering</text>
+  <text class="body" x="462" y="808">Next.js architecture</text>
+  <polyline class="wire" points="462,838 540,814 610,836 680,798 748,826" />
+
+  <line class="rule" x1="882" y1="218" x2="1278" y2="218" />
+  <rect class="icon" x="882" y="193" width="20" height="20" rx="2" />
+  <rect class="icon" x="887" y="198" width="10" height="10" rx="1.8" />
+  <line class="icon" x1="878" y1="200" x2="882" y2="200" />
+  <line class="icon" x1="878" y1="206" x2="882" y2="206" />
+  <line class="icon" x1="902" y1="200" x2="906" y2="200" />
+  <line class="icon" x1="902" y1="206" x2="906" y2="206" />
+  <text class="title" x="918" y="206">Tech Stack</text>
+
+  <text class="body" x="882" y="248">Core tools used in production systems.</text>
+
+  <rect class="sub" x="882" y="264" width="396" height="224" rx="8" />
+  <circle class="n1" cx="1080" cy="376" r="5" />
+
+  <line class="wire" x1="1080" y1="376" x2="947" y2="315" />
+  <line class="wire" x1="1080" y1="376" x2="1043" y2="315" />
+  <line class="wire" x1="1080" y1="376" x2="1139" y2="315" />
+  <line class="wire" x1="1080" y1="376" x2="947" y2="376" />
+  <line class="wire" x1="1080" y1="376" x2="1139" y2="376" />
+  <line class="wire" x1="1080" y1="376" x2="947" y2="437" />
+  <line class="wire" x1="1080" y1="376" x2="1043" y2="437" />
+  <line class="wire" x1="1080" y1="376" x2="1139" y2="437" />
+
+  <rect class="sub" x="902" y="298" width="90" height="34" rx="6" /><text class="chip" x="937" y="320">TS</text>
+  <rect class="sub" x="998" y="298" width="90" height="34" rx="6" /><text class="chip" x="1021" y="320">PYTHON</text>
+  <rect class="sub" x="1094" y="298" width="90" height="34" rx="6" /><text class="chip" x="1128" y="320">GO</text>
+  <rect class="sub" x="902" y="359" width="90" height="34" rx="6" /><text class="chip" x="926" y="381">NODE</text>
+  <rect class="sub" x="1094" y="359" width="90" height="34" rx="6" /><text class="chip" x="1120" y="381">RUST</text>
+  <rect class="sub" x="902" y="420" width="90" height="34" rx="6" /><text class="chip" x="927" y="442">NEXT</text>
+  <rect class="sub" x="998" y="420" width="90" height="34" rx="6" /><text class="chip" x="1032" y="442">K8S</text>
+  <rect class="sub" x="1094" y="420" width="90" height="34" rx="6" /><text class="chip" x="1112" y="442">DOCKER</text>
+
+  <line class="rule" x1="882" y1="582" x2="1278" y2="582" />
+  <path class="icon" d="M882 563 h9 a4 4 0 0 1 0 8 h-9 a4 4 0 0 1 0 -8 z" />
+  <path class="icon" d="M893 563 h9 a4 4 0 0 1 0 8 h-9 a4 4 0 0 1 0 -8 z" />
+  <text class="title" x="918" y="571">Connect</text>
+
+  <path class="wire" d="M910 602 v174" />
+  <circle class="node" cx="910" cy="622" r="2.6" />
+  <circle class="node" cx="910" cy="656" r="2.6" />
+  <circle class="node" cx="910" cy="690" r="2.6" />
+  <circle class="node" cx="910" cy="724" r="2.6" />
+  <circle class="node" cx="910" cy="758" r="2.6" />
+
+  <circle class="icon" cx="894" cy="622" r="6" /><line class="icon" x1="888" y1="622" x2="900" y2="622" /><line class="icon" x1="894" y1="616" x2="894" y2="628" />
+  <text class="body" x="926" y="626">Portfolio: tahmid.space</text>
+
+  <circle class="node" cx="890" cy="656" r="2" /><circle class="node" cx="898" cy="650" r="2" /><circle class="node" cx="898" cy="662" r="2" />
+  <line class="icon" x1="890" y1="656" x2="898" y2="650" /><line class="icon" x1="890" y1="656" x2="898" y2="662" />
+  <text class="body" x="926" y="660">GitHub: @tahmidbintaslim</text>
+
+  <rect class="icon" x="886" y="682" width="14" height="11" rx="1" /><line class="icon" x1="890" y1="687" x2="896" y2="687" />
+  <text class="body" x="926" y="694">LinkedIn: tahmid-bin-taslim</text>
+
+  <rect class="icon" x="886" y="716" width="14" height="11" rx="1" /><line class="icon" x1="890" y1="720" x2="896" y2="720" /><line class="icon" x1="890" y1="724" x2="896" y2="724" />
+  <text class="body" x="926" y="728">Dev.to: tahmidbintaslimrafi</text>
+
+  <rect class="icon" x="885" y="750" width="15" height="11" rx="1" /><line class="icon" x1="885" y1="750" x2="892.5" y2="756" /><line class="icon" x1="892.5" y1="756" x2="900" y2="750" />
+  <text class="body-sm" x="926" y="762">Email: tahmidbintaslimrafi@gmail.com</text>
+
+  <text class="body" x="882" y="808">Open to consulting and collaboration.</text>
+
+  <rect class="sub" x="1052" y="834" width="98" height="64" rx="8" />
+  <path class="icon" d="M1178 804 l56 -48 l44 44 l-48 48 z" />
+  <rect class="sub" x="1172" y="864" width="74" height="32" rx="7" />
+</svg>

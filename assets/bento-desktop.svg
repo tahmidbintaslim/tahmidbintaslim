@@ -79,14 +79,14 @@
   <text class="role2" x="180" y="88">Cloud-native &amp; AI Architect</text>
   <text class="lead" x="44" y="118">I build scalable products where SaaS architecture, headless commerce, and AI meet.</text>
 
-  <rect class="sub" x="1082" y="46" width="200" height="38" rx="7" />
-  <path class="icon" d="M1112 53 c-4 0 -7 3 -7 7 c0 5 7 11 7 11 s7 -6 7 -11 c0 -4 -3 -7 -7 -7 z" />
-  <circle class="node" cx="1112" cy="60" r="2.2" />
-  <text class="mono" x="1182" y="65" text-anchor="middle" dominant-baseline="middle">Bangkok, Thailand</text>
+  <rect class="sub" x="1082" y="42" width="200" height="38" rx="7" />
+  <path class="icon" d="M1114 53 c-4 0 -7 3 -7 7 c0 5 7 11 7 11 s7 -6 7 -11 c0 -4 -3 -7 -7 -7 z" />
+  <circle class="node" cx="1114" cy="60" r="2.2" />
+  <text class="mono" x="1130" y="63" dominant-baseline="middle">Bangkok, Thailand</text>
 
   <line class="rule" x1="42" y1="218" x2="402" y2="218" />
-  <circle class="icon" cx="58" cy="200" r="6" />
-  <path class="icon" d="M49 213 q9 -8 18 0" />
+  <circle class="icon" cx="58" cy="198" r="5.5" />
+  <path class="icon" d="M50 210 q8 -7 16 0" />
   <text class="title" x="82" y="206">About Me</text>
 
   <text class="body" x="42" y="246">Senior Software Engineer</text>
@@ -97,7 +97,8 @@
   <text class="body" x="42" y="358">reliable infrastructure, and measurable outcomes.</text>
 
   <line class="rule" x1="42" y1="438" x2="402" y2="438" />
-  <text class="mono-strong" x="62" y="428">NOW SHIPPING</text>
+  <path class="icon" d="M42 426 l8 -10 l-2 7 h7 l-10 10 l2 -7 z" />
+  <text class="mono-strong" x="74" y="428">NOW SHIPPING</text>
   <path class="icon" d="M350 458 l20 -12 l-5 15 l11 4 l-21 10 z" />
   <text class="mono" x="62" y="468">Cloud-native application systems</text>
   <text class="mono" x="62" y="494">AI-powered product workflows</text>
@@ -109,7 +110,7 @@
   <line class="icon" x1="60" y1="605" x2="60" y2="601" />
   <line class="icon" x1="50" y1="591" x2="46" y2="591" />
   <line class="icon" x1="74" y1="591" x2="70" y2="591" />
-  <text class="mono-strong" x="80" y="596">CORE FOCUS</text>
+  <text class="mono-strong" x="82" y="596">CORE FOCUS</text>
   <path class="wire" d="M58 622 v228" />
   <circle class="node" cx="58" cy="650" r="3.2" />
   <circle class="node" cx="58" cy="688" r="3.2" />
@@ -127,7 +128,7 @@
   <line class="rule" x1="462" y1="218" x2="822" y2="218" />
   <rect class="icon" x="462" y="193" width="20" height="13" rx="2" />
   <path class="icon" d="M467 193 v-4 h10 v4" />
-  <text class="title" x="498" y="206">Selected Work</text>
+  <text class="title" x="498" y="206">Featured Work</text>
 
   <text class="body" x="462" y="248">Shikhbo-AI  · AI chat assistant</text>
   <text class="body" x="462" y="278">Unicorn-UI  · Accessible React UI library</text>
@@ -146,7 +147,7 @@
   <rect class="icon" x="462" y="696" width="16" height="20" rx="2" />
   <line class="icon" x1="466" y1="703" x2="474" y2="703" />
   <line class="icon" x1="466" y1="709" x2="474" y2="709" />
-  <path class="icon" d="M481 714 l9 -9 l5 5 l-9 9 l-7 2 z" />
+  <path class="icon" d="M475 712 l9 -9 l5 5 l-9 9 l-7 2 z" />
   <text class="title" x="502" y="710">Writing</text>
   <rect class="sub" x="726" y="690" width="98" height="30" rx="6" />
   <text class="chip" x="745" y="709">10k+ reads</text>
@@ -154,7 +155,6 @@
   <text class="body" x="462" y="756">Agentic UI and real-time agents</text>
   <text class="body" x="462" y="782">First-principles engineering</text>
   <text class="body" x="462" y="808">Next.js architecture</text>
-  <polyline class="wire" points="462,838 540,814 610,836 680,798 748,826" />
 
   <line class="rule" x1="882" y1="218" x2="1278" y2="218" />
   <rect class="icon" x="882" y="193" width="20" height="20" rx="2" />

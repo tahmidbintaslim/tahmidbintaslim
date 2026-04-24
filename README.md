@@ -30,7 +30,9 @@ AWS • GCP • Docker • Kubernetes • GitHub Actions • Playwright
 
 ### 📈 GitHub Stats
 
-> **Note:** To actually render these stats, replace `tahmidbintaslim` with your exact GitHub username in the URLs below when pasting into your README.md
+![Tahmid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&layout=compact&theme=radical)
 
 ---
 

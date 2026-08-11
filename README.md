@@ -1,4 +1,4 @@
-Hi, I'm **Tahmid (easier "Rafi")** 👋
+Hi, I'm Rafi 👋
 
 **Senior Software Engineer | Solutions Architect | Pragmatic Builder**
 

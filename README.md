@@ -31,8 +31,8 @@ AWS • GCP • Docker • Kubernetes • GitHub Actions • Playwright • Jenk
 
 ### 📈 GitHub Stats
 
-![Tahmid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=radical)
+![tahmidbintaslim's GitHub Stats](https://readme-stats-github.pages.dev/api?username=tahmidbintaslim&theme=shadow)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidbintaslim&layout=compact&theme=radical)
+![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=tahmidbintaslim&theme=shadow)
 
 ---

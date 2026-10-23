@@ -36,9 +36,9 @@ I bridge product vision with robust engineering, translating complex business re
 
 | Project | Live | Status | What it is |
 | --- | --- | --- | --- |
-| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | [Demo](https://ai-chat-vert-alpha.vercel.app) | Prototype | Bengali and English AI tutor for Bangladeshi school students, built with Next.js and TypeScript. Answers draw on textbook passages through vector search, with a Redis response cache. |
-| **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | React, TypeScript and Tailwind CSS components built on shadcn/ui for back-office screens such as dashboards and admin tools, with live previews and copy-paste code. |
-| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | Not public yet | Prototype | Connects AI agents and external services to Shopify storefronts over the MCP and UCP protocols. |
+| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
+| **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | Card components for marketing and SaaS pages (pricing, statistics, testimonial, feature, blog and interactive), built with React, TypeScript and Tailwind CSS on shadcn/ui, with live previews and copy-paste code. |
+| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. No store can install it yet. |
 
 ---
 

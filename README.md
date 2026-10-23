@@ -7,11 +7,11 @@ Bangkok, Thailand • [tahmid.space](https://tahmid.space) • [LinkedIn](https:
 ### 🚀 About Me
 Lead Full Stack Software Engineer and Solutions Architect with 5+ years of verified production experience architecting, scaling, and maintaining high-concurrency web applications, reactive Single-Page Applications (SPAs), and decoupled asynchronous backends. 
 
-I bridge product vision with robust engineering—translating complex business requirements into maintainable, low-latency architectures with automated CI/CD quality gates and zero-downtime deployments.
+I bridge product vision with robust engineering, translating complex business requirements into maintainable, low-latency architectures with automated CI/CD quality gates and zero-downtime deployments.
 
 * **Current Focus:** Scalable SaaS architectures, event-driven pipelines, and high-throughput B2B/B2C platforms.
-* **Core Philosophy:** Pragmatic architecture over hype. Applying **KISS**, **YAGNI**, and **SOLID** principles—prioritizing clean domain boundaries and battle-tested message brokers (Redis, RabbitMQ) over unnecessary microservice complexity.
-* **Based In:** Bangkok, Thailand *(Non-Immigrant IB Visa / BOI Approved & Active Work Permit)*.
+* **Core Philosophy:** Pragmatic architecture over hype. Applying **KISS**, **YAGNI**, and **SOLID** principles, prioritizing clean domain boundaries and battle-tested message brokers (Redis, RabbitMQ) over unnecessary microservice complexity.
+* **Based In:** Bangkok, Thailand.
 
 ---
 
@@ -24,19 +24,29 @@ I bridge product vision with robust engineering—translating complex business r
 
 ---
 
-### 📌 Featured Projects & Systems
+### 🌐 Verified Production Platforms
 
-* **[shopify-ucp](https://github.com/tahmidbintaslim/shopify-ucp):** Universal Agent Gateway — multi-tenant SaaS architecture connecting external services and automated agents to Shopify storefronts.
-* **[Unicorn-UI](https://github.com/tahmidbintaslim/Unicorn-UI):** Accessible, modular component library built with React, TypeScript, and Tailwind CSS, engineered for rapid assembly of back-office SPAs and operational tools.
-* **[Shikhbo-AI](https://github.com/tahmidbintaslim/Shikhbo-AI):** AI assistant service featuring strict JSON schema validation middleware and semantic caching to eliminate token latency and overhead.
+* **[Marion's Kitchen](https://marionskitchen.com) & [Cook Dine Host](https://cookdinehost.com):** High-traffic B2B e-commerce and B2C lifestyle platforms. PostgreSQL schema and index work took P95 API latency from 650ms to under 180ms, and Redis with Celery/RabbitMQ queues cut background-job runtimes by 45% at 99.95% uptime.
+* **[Amazing Properties](https://amazingproperties.org):** Production real estate portal on React and a Node.js Backend-for-Frontend over headless WordPress (40% faster initial render), with Algolia search under 50ms, Google Maps, and an in-house Haversine algorithm for distances to BTS/MRT stations.
+* **TCAS National Admissions Portal:** Thailand's national university admission eligibility platform, co-architected by a two-person team. An automated pipeline turns hundreds of PDF and CSV handbooks into structured data, and Node.js scoring APIs on AWS (Docker, Kubernetes) held 99.9% uptime through peak application cycles.
 
 ---
 
-### 🌐 Verified Production Platforms
+### 📌 Open Source
 
-* **[Marion's Kitchen](https://marionskitchen.com) & [Cook Dine Host](https://cookdinehost.com):** High-traffic B2B e-commerce and B2C lifestyle platforms powered by asynchronous background processing and optimized PostgreSQL data layers.
-* **[Amazing Properties](https://amazingproperties.org):** Production real estate portal built on React, Node.js BFF architecture, Algolia AI semantic search, Google Maps, and a custom Haversine proximity algorithm.
-* **TCAS National Admissions Portal:** Automated data extraction and eligibility assessment system handling national-scale university admissions data in Thailand.
+| Project | Live | Status | What it is |
+| --- | --- | --- | --- |
+| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
+| **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | Card components for marketing and SaaS pages (pricing, statistics, testimonial, feature, blog and interactive), built with React, TypeScript and Tailwind CSS on shadcn/ui, with live previews and copy-paste code. |
+| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. No store can install it yet. |
+
+---
+
+### ✍️ Latest Writing
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+More at [tahmid.space/blog](https://tahmid.space/blog), [Medium](https://medium.com/@tahmidbintaslimrafi) and [Dev.to](https://dev.to/tahmidbintaslim).
 
 ---
 
@@ -44,3 +54,7 @@ I bridge product vision with robust engineering—translating complex business r
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=dark" alt="Tahmid's GitHub Stats" />
 </p>
+
+---
+
+<sub>Work authorization: Non-Immigrant IB visa (BOI approved) and active work permit in Thailand, eligible for local transfer.</sub>

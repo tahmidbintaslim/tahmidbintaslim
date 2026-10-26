@@ -36,9 +36,11 @@ I bridge product vision with robust engineering, translating complex business re
 
 | Project | Live | Status | What it is |
 | --- | --- | --- | --- |
-| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
+| **[checkout-sentinel](https://github.com/tahmidbintaslim/checkout-sentinel)** | No hosted demo (CLI) | v0.1, early | Scheduled synthetic checks for Shopify and WooCommerce stores. A Playwright browser opens a product page, adds it to the cart, confirms the cart changed and loads checkout on a desktop and a mobile viewport, then sends one alert when a step fails or gets slow and one when it recovers. It never enters payment details or places an order. CLI, NestJS API and BullMQ worker on Postgres and Redis, with a Docker Compose stack. |
+| **[Sun UI](https://github.com/tahmidbintaslim/sun-ui)** | [Storybook](https://sun-ui-brown.vercel.app) | In development, not on npm yet | React components built on Material UI v7, with one `variant`, `color` and `size` API across 26 components, plus design tokens and light and dark themes. |
 | **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | Card components for marketing and SaaS pages (pricing, statistics, testimonial, feature, blog and interactive), built with React, TypeScript and Tailwind CSS on shadcn/ui, with live previews and copy-paste code. |
-| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. No store can install it yet. |
+| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
+| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. It has not been installed on a real store yet. |
 
 ---
 

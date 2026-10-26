@@ -2,40 +2,54 @@ name: Update latest blog posts
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Off the top of the hour: GitHub delays or drops scheduled runs at :00 under load.
+    - cron: "17 0 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: blog-post-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-readme-with-blog:
     name: Update README with latest blog posts
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      # The action commits README.md and pushes it with GITHUB_TOKEN. It also makes
+      # an empty keepalive commit after 50 days without one, so GitHub does not
+      # disable this schedule for inactivity.
+      contents: write
 
     steps:
+      # Keep checkout's default persisted credentials: the action's push uses them.
+      # With persist-credentials: false the push fails with "could not read Password".
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
+      # item_exec runs once per feed item, before the action HTML-encodes it.
+      # Posts are cross-posted to both feeds with small punctuation differences.
+      # The action's own dedupe (remove_duplicates) is off by default and only works
+      # inside one feed when enabled, so item_exec does all the deduping:
+      #   1. turns curly quotes into straight ones, so both copies render the same,
+      #   2. drops Medium's ?source=rss tracking query,
+      #   3. keeps one copy per title, inside one feed and across both. The Dev.to link wins,
+      #      whichever feed answers first, so the list does not flip between runs.
       - name: Fetch and update blog posts
         uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1.9.6
         with:
           feed_list: "https://dev.to/feed/tahmidbintaslim,https://medium.com/feed/@tahmidbintaslimrafi"
-          max_post_count: 15
-
-      - name: Configure git
-        run: |
-          git config user.name "GitHub Actions Bot"
-          git config user.email "actions@github.com"
-
-      - name: Commit and push changes
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          if [ -n "$(git status --porcelain)" ]; then
-            git add README.md
-            git commit -m "Updated with the latest blog posts"
-            git push https://x-access-token:${GH_PAT}@github.com/tahmidbintaslim/tahmidbintaslim.git
-          else
-            echo "No changes to commit"
-          fi
+          max_post_count: 5
+          committer_username: "github-actions[bot]"
+          committer_email: "41898282+github-actions[bot]@users.noreply.github.com"
+          item_exec: |
+            post.title = post.title.replace(/[\u2018\u2019]/g, "'").replace(/[\u201C\u201D]/g, '"');
+            post.url = post.url.replace(/\?source=rss[^#]*/, '');
+            const key = post.title.toLowerCase().replace(/[^a-z0-9]+/g, '');
+            const isDevto = post.url.startsWith('https://dev.to/');
+            const seen = (globalThis.seenPosts = globalThis.seenPosts || {});
+            const kept = seen[key];
+            if (!kept) { seen[key] = { post, isDevto }; } else { if (isDevto && !kept.isDevto) { kept.post.url = post.url; kept.post.date = post.date; kept.isDevto = true; } post = null; }

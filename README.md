@@ -36,14 +36,21 @@ I bridge product vision with robust engineering, translating complex business re
 
 | Project | Live | Status | What it is |
 | --- | --- | --- | --- |
-| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
+| **[checkout-sentinel](https://github.com/tahmidbintaslim/checkout-sentinel)** | No hosted demo (CLI) | v0.1, early | Scheduled synthetic checks for Shopify and WooCommerce stores. A Playwright browser opens a product page, adds it to the cart, confirms the cart changed and loads checkout on a desktop and a mobile viewport, then sends one alert when a step fails or gets slow and one when it recovers. It never enters payment details or places an order. CLI, NestJS API and BullMQ worker on Postgres and Redis, with a Docker Compose stack. |
+| **[Sun UI](https://github.com/tahmidbintaslim/sun-ui)** | [Storybook](https://sun-ui-brown.vercel.app) | In development, not on npm yet | React components built on Material UI v7, with one `variant`, `color` and `size` API across 26 components, plus design tokens and light and dark themes. |
 | **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | Card components for marketing and SaaS pages (pricing, statistics, testimonial, feature, blog and interactive), built with React, TypeScript and Tailwind CSS on shadcn/ui, with live previews and copy-paste code. |
+| **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
 | **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. No store can install it yet. |
 
 ---
 
 ### ✍️ Latest Writing
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Redis Beyond Simple Caching: A Senior Dev&#39;s Perspective](https://dev.to/tahmidbintaslim/how-i-use-redis-beyond-simple-caching-a-senior-devs-perspective-2llf)
+- [AI Driven Development 2026: The Age of Agents](https://medium.com/@tahmidbintaslimrafi/ai-driven-development-2026-the-age-of-agents-7908169c67ea)
+- [OpenAI just dropped the Codex app for Mac](https://blog.cubed.run/openai-just-dropped-the-codex-app-for-mac-5de0bb54788b)
+- [OpenClaw In Action](https://blog.cubed.run/openclaw-in-action-ead22260f2d3)
+- [AI Era for Shopify merchants](https://dev.to/tahmidbintaslim/ai-era-for-shopify-merchants-bk5)
 <!-- BLOG-POST-LIST:END -->
 
 More at [tahmid.space/blog](https://tahmid.space/blog), [Medium](https://medium.com/@tahmidbintaslimrafi) and [Dev.to](https://dev.to/tahmidbintaslim).

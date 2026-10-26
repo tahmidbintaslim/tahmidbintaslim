@@ -46,6 +46,11 @@ I bridge product vision with robust engineering, translating complex business re
 
 ### ✍️ Latest Writing
 <!-- BLOG-POST-LIST:START -->
+- [How I Use Redis Beyond Simple Caching: A Senior Dev&#39;s Perspective](https://dev.to/tahmidbintaslim/how-i-use-redis-beyond-simple-caching-a-senior-devs-perspective-2llf)
+- [AI Driven Development 2026: The Age of Agents](https://medium.com/@tahmidbintaslimrafi/ai-driven-development-2026-the-age-of-agents-7908169c67ea)
+- [OpenAI just dropped the Codex app for Mac](https://blog.cubed.run/openai-just-dropped-the-codex-app-for-mac-5de0bb54788b)
+- [OpenClaw In Action](https://blog.cubed.run/openclaw-in-action-ead22260f2d3)
+- [AI Era for Shopify merchants](https://dev.to/tahmidbintaslim/ai-era-for-shopify-merchants-bk5)
 <!-- BLOG-POST-LIST:END -->
 
 More at [tahmid.space/blog](https://tahmid.space/blog), [Medium](https://medium.com/@tahmidbintaslimrafi) and [Dev.to](https://dev.to/tahmidbintaslim).

@@ -25,11 +25,10 @@ jobs:
       contents: write
 
     steps:
+      # Keep checkout's default persisted credentials: the action's push uses them.
+      # With persist-credentials: false the push fails with "could not read Password".
       - name: Checkout repository
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
-        with:
-          # The action sets its own token-authenticated remote before it pushes.
-          persist-credentials: false
 
       # item_exec runs once per feed item, before the action HTML-encodes it.
       # Posts are cross-posted to both feeds with small punctuation differences,

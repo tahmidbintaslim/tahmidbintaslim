@@ -1,17 +1,28 @@
-# Hi, I'm Rafi 👋
+# Hi, I'm Tahmid Rafi 👋
 ### Lead Full Stack Software Engineer & Solutions Architect
 Bangkok, Thailand • [tahmid.space](https://tahmid.space) • [LinkedIn](https://www.linkedin.com/in/tahmid-bin-taslim/) • [Email](mailto:tahmidbintaslimrafi@gmail.com)
+
+Open to senior and lead engineering roles in Bangkok.
 
 ---
 
 ### 🚀 About Me
-Lead Full Stack Software Engineer and Solutions Architect with 5+ years of verified production experience architecting, scaling, and maintaining high-concurrency web applications, reactive Single-Page Applications (SPAs), and decoupled asynchronous backends. 
+Lead Full Stack Software Engineer & Solutions Architect with 5+ years of verified production experience architecting, scaling, and maintaining high-concurrency web applications, reactive Single-Page Applications (SPAs), and decoupled asynchronous backends.
 
 I bridge product vision with robust engineering, translating complex business requirements into maintainable, low-latency architectures with automated CI/CD quality gates and zero-downtime deployments.
 
 * **Current Focus:** Scalable SaaS architectures, event-driven pipelines, and high-throughput B2B/B2C platforms.
 * **Core Philosophy:** Pragmatic architecture over hype. Applying **KISS**, **YAGNI**, and **SOLID** principles, prioritizing clean domain boundaries and battle-tested message brokers (Redis, RabbitMQ) over unnecessary microservice complexity.
 * **Based In:** Bangkok, Thailand.
+
+---
+
+### 💼 Experience
+
+* **Senior Software Developer, [Marion's Kitchen Group](https://marionskitchen.com)** (Mar 2024 to present, Bangkok): lead a squad of four full-stack developers across the group's e-commerce platforms and internal SaaS.
+* **Senior Software Developer, [Trienpont International](https://trienpont.com)** (May 2023 to Feb 2024, Bangkok): led full-stack engineering for the Amazing Properties real estate portal.
+* **Full Stack Developer, [Relevant Audience](https://relevantaudience.com)** (Nov 2021 to May 2023, Bangkok): co-architected TCAS, Thailand's national university admission eligibility platform.
+* **BS in Information Technology (Data Science)**, Stamford International University, 2018 to 2022.
 
 ---
 
@@ -54,13 +65,6 @@ I bridge product vision with robust engineering, translating complex business re
 <!-- BLOG-POST-LIST:END -->
 
 More at [tahmid.space/blog](https://tahmid.space/blog), [Medium](https://medium.com/@tahmidbintaslimrafi) and [Dev.to](https://dev.to/tahmidbintaslim).
-
----
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahmidbintaslim&show_icons=true&theme=dark" alt="Tahmid's GitHub Stats" />
-</p>
 
 ---
 

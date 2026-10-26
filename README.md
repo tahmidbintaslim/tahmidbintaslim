@@ -40,7 +40,7 @@ I bridge product vision with robust engineering, translating complex business re
 | **[Sun UI](https://github.com/tahmidbintaslim/sun-ui)** | [Storybook](https://sun-ui-brown.vercel.app) | In development, not on npm yet | React components built on Material UI v7, with one `variant`, `color` and `size` API across 26 components, plus design tokens and light and dark themes. |
 | **[Unicorn UI](https://github.com/tahmidbintaslim/Unicorn-UI)** | [Demo](https://shadcn-ui-library.vercel.app) | Working demo | Card components for marketing and SaaS pages (pricing, statistics, testimonial, feature, blog and interactive), built with React, TypeScript and Tailwind CSS on shadcn/ui, with live previews and copy-paste code. |
 | **[Shikhbo AI](https://github.com/tahmidbintaslim/Shikhbo-AI)** | Not live yet | Prototype | Bengali and English homework helper for students in Bangladesh, built with Next.js and TypeScript. It finds matching pages in NCTB Class 1 textbooks through Upstash Vector and answers an exact repeat question from a Redis cache. |
-| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. It has not been installed on a real store yet. |
+| **[Universal Agent Gateway](https://github.com/tahmidbintaslim/shopify-ucp)** | No demo | Prototype | Shopify embedded app meant to let AI agents query a store's catalog, through an MCP-style JSON-RPC endpoint over the Shopify Admin GraphQL API. No store can install it yet. |
 
 ---
 

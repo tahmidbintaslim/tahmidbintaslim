@@ -31,11 +31,12 @@ jobs:
         uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
 
       # item_exec runs once per feed item, before the action HTML-encodes it.
-      # Posts are cross-posted to both feeds with small punctuation differences,
-      # and the action only removes duplicates inside one feed, so this:
+      # Posts are cross-posted to both feeds with small punctuation differences.
+      # The action's own dedupe (remove_duplicates) is off by default and only works
+      # inside one feed when enabled, so item_exec does all the deduping:
       #   1. turns curly quotes into straight ones, so both copies render the same,
       #   2. drops Medium's ?source=rss tracking query,
-      #   3. keeps one copy per title across both feeds. The Dev.to link wins,
+      #   3. keeps one copy per title, inside one feed and across both. The Dev.to link wins,
       #      whichever feed answers first, so the list does not flip between runs.
       - name: Fetch and update blog posts
         uses: gautamkrishnar/blog-post-workflow@2786e54a01b71aec80a5118c2bd6b5044e842597 # v1.9.6

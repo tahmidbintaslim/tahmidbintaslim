@@ -68,4 +68,4 @@ More at [tahmid.space/blog](https://tahmid.space/blog), [Medium](https://medium.
 
 ---
 
-<sub>Work authorization: Non-Immigrant IB visa (BOI approved) and active work permit in Thailand, eligible for local transfer.</sub>
+<sub>Work authorization: Non-Immigrant IB visa (BOI approved) and Thai work permit. Based in Bangkok, no relocation needed.</sub>

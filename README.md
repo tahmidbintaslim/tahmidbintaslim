@@ -1,4 +1,4 @@
-# Hi, I'm Tahmid Rafi 👋
+# Hi, I'm Tahmid Rafi
 ### Lead Full Stack Software Engineer & Solutions Architect
 Bangkok, Thailand • [tahmid.space](https://tahmid.space) • [LinkedIn](https://www.linkedin.com/in/tahmid-bin-taslim/) • [Email](mailto:tahmidbintaslimrafi@gmail.com)
 
@@ -6,7 +6,7 @@ Open to senior and lead engineering roles in Bangkok.
 
 ---
 
-### 🚀 About Me
+### About me
 Lead Full Stack Software Engineer & Solutions Architect with 5+ years of verified production experience architecting, scaling, and maintaining high-concurrency web applications, reactive Single-Page Applications (SPAs), and decoupled asynchronous backends.
 
 I bridge product vision with robust engineering, translating complex business requirements into maintainable, low-latency architectures with automated CI/CD quality gates and zero-downtime deployments.
@@ -17,7 +17,7 @@ I bridge product vision with robust engineering, translating complex business re
 
 ---
 
-### 💼 Experience
+### Experience
 
 * **Senior Software Developer, [Marion's Kitchen Group](https://marionskitchen.com)** (Mar 2024 to present, Bangkok): lead a squad of four full-stack developers across the group's e-commerce platforms and internal SaaS.
 * **Senior Software Developer, [Trienpont International](https://trienpont.com)** (May 2023 to Feb 2024, Bangkok): led full-stack engineering for the Amazing Properties real estate portal.
@@ -26,7 +26,7 @@ I bridge product vision with robust engineering, translating complex business re
 
 ---
 
-### 🛠️ Core Technical Stack
+### Core technical stack
 
 * **Frontend & SPAs:** Vue 3, Pinia, Vuex, React, TypeScript, JavaScript (ES6+), Backend-For-Frontend (BFF) Pattern, Tailwind CSS, Vite.
 * **Backend Systems & APIs:** Python 3.x (FastAPI, Django), Node.js (Express), RESTful API Architecture, Asynchronous Task Queues (Redis, RabbitMQ, Celery), Dead-Letter Queues (DLQ), Webhook Gateways.
@@ -35,7 +35,7 @@ I bridge product vision with robust engineering, translating complex business re
 
 ---
 
-### 🌐 Verified Production Platforms
+### Production platforms
 
 * **[Marion's Kitchen](https://marionskitchen.com) & [Cook Dine Host](https://cookdinehost.com):** High-traffic B2B e-commerce and B2C lifestyle platforms. PostgreSQL schema and index work took P95 API latency from 650ms to under 180ms, and Redis with Celery/RabbitMQ queues cut background-job runtimes by 45% at 99.95% uptime.
 * **[Amazing Properties](https://amazingproperties.org):** Production real estate portal on React and a Node.js Backend-for-Frontend over headless WordPress (40% faster initial render), with Algolia search under 50ms, Google Maps, and an in-house Haversine algorithm for distances to BTS/MRT stations.
@@ -43,7 +43,7 @@ I bridge product vision with robust engineering, translating complex business re
 
 ---
 
-### 📌 Open Source
+### Open source
 
 | Project | Live | Status | What it is |
 | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ I bridge product vision with robust engineering, translating complex business re
 
 ---
 
-### ✍️ Latest Writing
+### Latest writing
 <!-- BLOG-POST-LIST:START -->
 - [How I Use Redis Beyond Simple Caching: A Senior Dev&#39;s Perspective](https://dev.to/tahmidbintaslim/how-i-use-redis-beyond-simple-caching-a-senior-devs-perspective-2llf)
 - [AI Driven Development 2026: The Age of Agents](https://medium.com/@tahmidbintaslimrafi/ai-driven-development-2026-the-age-of-agents-7908169c67ea)

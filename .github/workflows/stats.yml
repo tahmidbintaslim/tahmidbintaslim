@@ -1,0 +1,51 @@
+name: Update profile stats cards
+
+on:
+  schedule:
+    # Off the hour, and away from blog-post.yml (00:17), so the two pushes do not race.
+    - cron: "43 2 * * *"
+  push:
+    branches: [main]
+    paths:
+      - "scripts/stats.mjs"
+      - ".github/workflows/stats.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: false
+
+jobs:
+  stats:
+    name: Generate stats SVGs
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      # ubuntu-latest ships Node 20+, which has fetch; the script has no dependencies.
+      - name: Build cards
+        run: node scripts/stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit changed cards
+        run: |
+          # status, not diff: the first run creates the files, which diff does not see.
+          if [ -z "$(git status --porcelain -- assets)" ]; then
+            echo "Cards unchanged."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets
+          git commit -m "chore(stats): refresh profile stats cards"
+          # blog-post.yml may have pushed since checkout; replay this commit on top.
+          git pull --rebase origin main
+          git push origin HEAD:main

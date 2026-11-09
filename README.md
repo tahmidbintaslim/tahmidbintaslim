@@ -1,4 +1,4 @@
-# Hi, I'm Tahmid 👋
+# Hi, I'm Tahmid Rafi 👋
 
 🇹🇭 Bangkok · Lead Full Stack Software Engineer & Solutions Architect. I build sass, open-source, developer tools that saves your day !
 
@@ -20,10 +20,11 @@
 
 ## What I'm building around
 
-- Shopify and WooCommerce tooling for merchants and agencies
-- AI agents and MCP connectors for commerce
-- Bengali-first apps for Bangladesh
-- Boring, reliable backends on PostgreSQL, Redis and queues
+- SaSS that worth sub
+- Ecommerce Marketplaces, Shopify and WooCommerce tooling for merchants and agencies
+- AI agents and MCP
+- Open Source contributions
+- Exploring cross platform apps
 
 ## Latest writing
 

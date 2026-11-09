@@ -1,10 +1,9 @@
 # Hi, I'm Tahmid 👋
 
-🇹🇭 Bangkok · Lead Full Stack Software Engineer & Solutions Architect. I build production commerce platforms and open-source developer tools.
+🇹🇭 Bangkok · Lead Full Stack Software Engineer & Solutions Architect. I build sass, open-source, developer tools that saves your day !
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-111111?style=flat-square&logo=anthropic&logoColor=white)
 
-> 5+ years shipping e-commerce, real estate and national admissions platforms. I lead a squad of four at Marion's Kitchen Group, and I pick pragmatic architecture over hype.
 
 ## Current projects
 

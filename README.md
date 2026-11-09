@@ -1,6 +1,6 @@
 ## Hey, I'm Tahmid 👋
 
-Roaming the streets of Bangkok as an expat from Bangladesh 🇧🇩
+Roaming the streets of Bangkok, Thailand 🇹🇭 as an expat from Bangladesh 🇧🇩
 
 I'm a **Senior Software Engineer & Indie Builder** shipping headless commerce systems, AI tools, and open-source software.
 
